@@ -1,5 +1,7 @@
 # RestoreCord database leak
 
+<img src="https://consumersiteimages.trustpilot.net/business-units/6106bbad6688fb001df60583-198x149-1x.jpg" alt="Alt Text" width="200" height="200">
+
 ## Description
 
 12-22-2024

@@ -1,5 +1,7 @@
 # Doxbin database leak
 
+<img src="https://archive.org/services/img/doxbin-muisc/full/pct:500/0/default.jpg" alt="Alt Text" width="200" height="200">
+
 ## Description
 
 01-??-2025
