@@ -1,6 +1,6 @@
 # PPCGeeks database leak
 
-<img src="https://logos.haveibeenpwned.com/CraftRise.png" alt="PPCGeeks Logo" width="88" height="88">
+![PPCGeeks Logo](https://ppcgeeks.ai/wp-content/uploads/2023/01/PPC-Geeks-Logo.png)
 
 ## Description
 
