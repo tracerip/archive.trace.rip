@@ -4,7 +4,7 @@
 
 ## Description
 
-On approximately August 2016, the pocket PC fan site forum <a href="https://haveibeenpwned.com/Breach/CraftRise" target="_blank" rel="noopener">PPCGeeks suffered a data breach</a> that exposed around 490 thousand customer records.
+On approximately August 2016, the pocket PC fan site forum <a href="https://haveibeenpwned.com/Breach/PPCGeeks" target="_blank" rel="noopener">PPCGeeks suffered a data breach</a> that exposed around 490 thousand customer records.
 
 ## Breached data
 
