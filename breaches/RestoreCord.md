@@ -1,6 +1,6 @@
 # RestoreCord database leak
 
-<img src="https://consumersiteimages.trustpilot.net/business-units/6106bbad6688fb001df60583-198x149-1x.jpg" alt="RestoreCord Logo" width="88" height="88">
+<img src="https://github.com/user-attachments/assets/9b1bde7a-523f-40ef-879d-7b61bd6a479d" alt="RestoreCord Logo" width="88" height="88">
 
 ## Description
 
