@@ -11,10 +11,6 @@ This repository is a centralized hub for **data breaches** that have occurred ov
 - 📥 **Free Downloadable Files**: Each breach can be freely downloaded using the provided links.
 - 🗂️ **Organized by Industry**: The breaches are sorted for easier navigation.
 
-## 📁 Directory of Data Breaches
-
-All the data breach files are available in the `breaches` folder of this repository, they are sorted by industry name.
-
 ## 🚀 How to Download
 
 You can freely download any data breach file using the links provided in the `breaches` directory. Each breach is stored in a separate file with detailed information. Follow these steps:

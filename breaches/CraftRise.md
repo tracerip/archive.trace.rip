@@ -12,4 +12,4 @@ Email Address, Geographic Location, Password, Username
 
 ## Free download Link
 
-[CraftRise breach Free Download Link](https://files.vc/d/dl?hash=be74d051c7aed94b4297bbd146023154)
+[CraftRise breach Free Download Link](https://files.vc/d/dl?hash=)
