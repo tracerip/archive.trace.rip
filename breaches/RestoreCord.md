@@ -1,10 +1,8 @@
 # RestoreCord database leak
 
-<img src="https://consumersiteimages.trustpilot.net/business-units/6106bbad6688fb001df60583-198x149-1x.jpg" alt="RestoreCord Logo" width="200" height="200">
+<img src="https://consumersiteimages.trustpilot.net/business-units/6106bbad6688fb001df60583-198x149-1x.jpg" alt="RestoreCord Logo" width="88" height="88">
 
 ## Description
-
-12-22-2024
 
 On approximately December 22nd, the Discord raid recovery bot <a href="https://archive.is/DhUUT" target="_blank" rel="noopener">RestoreCord suffered a major data breach</a> that exposed almost 800 thousand customer records. The data was sold and traded on a site known as inf0sec by one of the owners.
 

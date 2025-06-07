@@ -4,9 +4,7 @@
 
 ## Description
 
-10-14-2024
-
-On approximately October 14th, the staffing and recruiting website, <a href="https://darkwebinformer.com/888-has-allegedly-leaked-the-jobhound-database/" target="_blank" rel="noopener">JobHound suffered a data breach</a> that exposed around 20 thousand customer records.
+On approximately October 14th, the staffing and recruiting website <a href="https://darkwebinformer.com/888-has-allegedly-leaked-the-jobhound-database/" target="_blank" rel="noopener">JobHound suffered a data breach</a> that exposed around 20 thousand customer records.
 
 ## Breached data
 

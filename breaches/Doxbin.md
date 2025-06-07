@@ -1,12 +1,10 @@
 # Doxbin database leak
 
-<img src="https://archive.org/services/img/doxbin-muisc/full/pct:500/0/default.jpg" alt="Doxbin Logo" width="200" height="200">
+<img src="https://archive.org/services/img/doxbin-muisc/full/pct:500/0/default.jpg" alt="Doxbin Logo" width="88" height="88">
 
 ## Description
 
-01-??-2025
-
-On approximately January, the forum used to post or leak personal data of any person, <a href="https://cyberindemnity.org/2025/01/the-doxbin-data-breach-understanding-the-impact-of-435784-compromised-accounts/" target="_blank" rel="noopener">Doxbin suffered a major data breach</a> that exposed almost 800 thousand customer records.
+On approximately January, the forum used to post or leak personal data of any person <a href="https://cyberindemnity.org/2025/01/the-doxbin-data-breach-understanding-the-impact-of-435784-compromised-accounts/" target="_blank" rel="noopener">Doxbin suffered a major data breach</a> that exposed almost 800 thousand customer records.
 
 ## Breached data
 
