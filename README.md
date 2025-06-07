@@ -51,13 +51,9 @@ Here are some of the most notable breaches included in this archive:
 
 If you come across a new data breach or notice outdated information, feel free to contribute. You can submit a pull request or open an issue for review.
 
-## 🔗 External Resources & Sources
+## 🔗 External Resources
 
 If you're interested in learning more about data breaches or cybersecurity:
 - [Stay Safe Online - Cybersecurity Tips](https://staysafeonline.org)
 - [Have I Been Pwned](https://haveibeenpwned.com)
 - [Have I Been Pwned - Passwords](https://haveibeenpwned.com/Passwords)
-
-If you're interested where I found all my information and breaches:
-- [README](https://github.com/doormanBreach/FreeDatabreaches)
-- [BreachForums](https://en.wikipedia.org/wiki/BreachForums)
