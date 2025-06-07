@@ -12,4 +12,4 @@ Discord IDs, IP addresses, Discord Usernames, Date & Time
 
 ## Free download Link
 
-[RestoreCord breach Free Download Link](https://files.vc/d/dl?hash=)
+[RestoreCord breach Free Download Link](https://files.vc/d/dl?hash=2f000b0887499da7f7d2a9bfb817ad6c)
