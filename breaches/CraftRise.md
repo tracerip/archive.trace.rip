@@ -4,7 +4,7 @@
 
 ## Description
 
-On approximately May 2023, the Turkish Minecraft server <a href="https://haveibeenpwned.com/Breach/CraftRise" target="_blank" rel="noopener">CraftRise suffered a data breach</a> that exposed around 2.5 million user records.
+On approximately May 2023, the Turkish Minecraft server <a href="https://haveibeenpwned.com/Breach/CraftRise" target="_blank" rel="noopener">CraftRise suffered a data breach</a> that exposed around 2.5 million customer records.
 
 ## Breached data
 
