@@ -1,14 +1,14 @@
 # LockBit database leak
 
-Add image later
+![LockBit Logo](https://www.vanroey.be/wp-content/uploads/LockBit-logo.png)
 
 ## Description
 
-Add info later
+On approximately April 2025, the ransomeware group <a href="https://www.paubox.com/blog/lockbit-ransomware-group-hacked" target="_blank" rel="noopener">LockBit suffered a data breach</a> that exposed around 60k customer records.
 
 ## Breached data
 
-Add info later
+Bitcoin Address, Email Address, Company Name, Employee Name, Job Title, Financial Information, Negotiation Messages
 
 ## Download link
 
