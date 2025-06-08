@@ -4,7 +4,7 @@
 
 ## Description
 
-On approximately August 2024, the russion market website <a href="https://darkwebinformer.com/anonmoose-allegedly-leaked-toolsmarkets-database/" target="_blank" rel="noopener">tools-markets suffered a major data breach</a> that exposed around 2 thousand customer records.
+On approximately August 2024, the russion market website <a href="https://darkwebinformer.com/anonmoose-allegedly-leaked-toolsmarkets-database/" target="_blank" rel="noopener">tools-markets suffered a major data breach</a> that exposed around 2k customer records.
 
 ## Breached data
 
