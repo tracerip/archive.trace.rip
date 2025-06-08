@@ -15,7 +15,7 @@ This repository is a centralized hub for **data breaches** that have occurred ov
 
 You can freely download any data breach file using the links provided in the `breaches` directory. Each breach is stored in a separate file with detailed information. Follow these steps:
 
-1. Navigate to the [Data Breaches Directory](/breaches).
+1. Navigate to the [Data Breaches Directory](./breaches).
 2. Choose the breach file you're interested in.
 3. Click on the download link at the bottom to save the file to your local machine.
 
