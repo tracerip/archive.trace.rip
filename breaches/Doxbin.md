@@ -4,7 +4,7 @@
 
 ## Description
 
-On approximately January, the forum used to post or leak personal data of any person <a href="https://cyberindemnity.org/2025/01/the-doxbin-data-breach-understanding-the-impact-of-435784-compromised-accounts/" target="_blank" rel="noopener">Doxbin suffered a major data breach</a> that exposed almost 800 thousand customer records.
+On approximately January, the forum used to post or leak personal data of any person <a href="https://cyberindemnity.org/2025/01/the-doxbin-data-breach-understanding-the-impact-of-435784-compromised-accounts/" target="_blank" rel="noopener">Doxbin suffered a major data breach</a> that exposed around 800 thousand customer records.
 
 ## Breached data
 

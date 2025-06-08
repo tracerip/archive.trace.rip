@@ -4,7 +4,7 @@
 
 ## Description
 
-On approximately December 22nd, the Discord raid recovery bot <a href="https://archive.is/DhUUT" target="_blank" rel="noopener">RestoreCord suffered a major data breach</a> that exposed almost 800 thousand customer records. The data was sold and traded on a site known as inf0sec by one of the owners.
+On approximately December 22nd, the Discord raid recovery bot <a href="https://archive.is/DhUUT" target="_blank" rel="noopener">RestoreCord suffered a major data breach</a> that exposed around 800 thousand customer records. The data was sold and traded on a site known as inf0sec by one of the owners.
 
 ## Breached data
 
