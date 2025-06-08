@@ -10,6 +10,6 @@ On approximately May 2023, the Turkish Minecraft server <a href="https://haveibe
 
 Email Address, Geographic Location, Password, Username
 
-## Free download Link
+## Download link
 
-[CraftRise breach Free Download Link](https://files.vc/d/dl?hash=de29af6c8b96b1dff8e06487f5be21c2)
+[CraftRise Database Download Link](https://files.vc/d/dl?hash=de29af6c8b96b1dff8e06487f5be21c2)

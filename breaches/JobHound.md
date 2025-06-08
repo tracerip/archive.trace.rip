@@ -10,6 +10,6 @@ On approximately October 14th, the staffing and recruiting website <a href="http
 
 Email Address, First Name, Last Name, Registered, Gender, Languages, Birthday, Is Company Member, Candidate Active, Has Job Alerts, Shared Data, Location, Country, Referral
 
-## Free download Link
+## Download link
 
-[JobHound breach Free Download Link](https://files.vc/d/dl?hash=be74d051c7aed94b4297bbd146023154)
+[JobHound Database Download Link](https://files.vc/d/dl?hash=be74d051c7aed94b4297bbd146023154)

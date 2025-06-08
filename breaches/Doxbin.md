@@ -10,6 +10,6 @@ On approximately January, the forum used to post or leak personal data of any pe
 
 User ID, Username, Email
 
-## Free download Link
+## Download link
 
-[Doxbin breach Free Download Link](https://files.vc/d/dl?hash=e6bf6402cda7148ccb69318a13893482)
+[Doxbin Database Download Link](https://files.vc/d/dl?hash=e6bf6402cda7148ccb69318a13893482)

@@ -10,6 +10,6 @@ On approximately December 22nd, the Discord raid recovery bot <a href="https://a
 
 Discord ID, IP Address, Discord Username, Date & Time
 
-## Free download Link
+## Download link
 
-[RestoreCord breach Free Download Link](https://files.vc/d/dl?hash=2f000b0887499da7f7d2a9bfb817ad6c)
+[RestoreCord Database Download Link](https://files.vc/d/dl?hash=2f000b0887499da7f7d2a9bfb817ad6c)

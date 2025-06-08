@@ -10,6 +10,6 @@ On approximately August 2016, the pocket PC fan site forum <a href="https://have
 
 DOB, IP Address, Password, Username, Email Address
 
-## Free download Link
+## Download link
 
-[PPCGeeks breach Free Download Link](https://files.vc/d/dl?hash=eb9793eed1953dbd093ca9e8fb7026e4)
+[PPCGeeks Database Download Link](https://files.vc/d/dl?hash=eb9793eed1953dbd093ca9e8fb7026e4)
