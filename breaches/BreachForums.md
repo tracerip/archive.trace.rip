@@ -4,7 +4,7 @@
 
 ## Description
 
-On approximately August 2024, the black hat hacking forum <a href="https://www.bleepingcomputer.com/news/security/fbi-seizes-breachforums-after-arresting-its-owner-pompompurin-in-march/" target="_blank" rel="noopener">BreachForums suffered a major data breach</a> that exposed around 200 thousand customer records.
+On approximately November 2022, the black hat hacking forum <a href="https://www.bleepingcomputer.com/news/security/fbi-seizes-breachforums-after-arresting-its-owner-pompompurin-in-march/" target="_blank" rel="noopener">BreachForums suffered a major data breach</a> that exposed around 200 thousand customer records.
 
 ## Breached data
 
