@@ -47,3 +47,8 @@ If you're interested in learning more about data breaches or cybersecurity:
 - [Stay Safe Online - Cybersecurity Tips](https://staysafeonline.org)
 - [Have I Been Pwned](https://haveibeenpwned.com)
 - [Have I Been Pwned - Passwords](https://haveibeenpwned.com/Passwords)
+
+## 🤷‍♀️ Misc
+
+- [Historical DB Archive Website](https://youreironic.github.io/Historical-Data-Breaches-Archive)
+- [trace.rip](https://trace.rip)
