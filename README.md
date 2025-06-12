@@ -43,7 +43,7 @@ If you come across a new data breach or notice outdated information, feel free t
 
 ## ❌ Database Removal Requests
 
-If you would like your database to be removed from the Historical Data Breaches Archive, please contact me on Discord at @trace.rip. I will process your request promptly.
+If you would like your database to be removed from the Historical Data Breaches Archive, please contact me on Discord at `@trace.rip`. I will process your request promptly.
 
 ## 🔗 External Resources
 
