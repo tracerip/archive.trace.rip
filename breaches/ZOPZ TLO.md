@@ -6,7 +6,7 @@ On approximately June 2025, the csint intelligence platform website <a href="htt
 
 ## Breached data
 
-Account IDs, Access Tokens, Passwords, Email Addresses, User Searches, User Queries
+Account IDs, Access Tokens, Passwords, Email Addresses, User Searches, User Queries, IP Address, User Agent
 (perhaps more I havent fully checked)
 
 ## Download link
