@@ -11,4 +11,4 @@ Account IDs, Access Tokens, Passwords, Email Addresses, User Searches, User Quer
 
 ## Download link
 
-[ZOPZ TLO Database Download Link](https://pixeldrain.com/u/dFYXut7U)
+[ZOPZ TLO Database Download Link](https://files.vc/d/dl?hash=3416aa6449dea4010c7a92e39ac134bf)
