@@ -17,8 +17,12 @@ You can freely download any data breach file using the links provided down below
 - [JobHound](./JobHound.md)
 - [Lockbit](./Lockbit.md)
 - [PPCGeeks](./PPCGeeks.md)
+- [Pandabuy](./Pandabuy.md)
 - [RestoreCord](./RestoreCord.md)
 - [Roblox](./Roblox.md)
+- [Tracked](./Tracked.md)
+- [Twitter](./Twitter.md)
+- [Tools Markets](./tools-markets.md)
 
 ## 🔧 Contributions & Issues
 
