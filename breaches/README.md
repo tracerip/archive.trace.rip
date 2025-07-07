@@ -10,6 +10,7 @@ You can freely download any data breach file using the links provided down below
 ## 📂 List of Breaches
 
 - [BreachForums](./BreachForums.md)
+- [BreachForums.vc](./BreachForums.vc.md)
 - [CommuteAir](./CommuteAir.md)
 - [CraftRise](./CraftRise.md)
 - [Doxbin 2020](https://youreironic.github.io/Historical-Data-Breaches-Archive/breaches/Doxbin%202020.html)
