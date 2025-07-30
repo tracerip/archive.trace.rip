@@ -12,4 +12,4 @@ Discord ID, IP Address, Discord Username, Date & Time
 
 ## Download link
 
-[RestoreCord Database Download Link](https://files.vc/d/dl?hash=2f000b0887499da7f7d2a9bfb817ad6c)
+[RestoreCord Database Download Link](https://buzzheavier.com/ykcn2t6uniyw)
