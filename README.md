@@ -39,7 +39,7 @@ You can also contribute new data breaches by submitting a pull request or by sug
 
 ## 🔧 Contributions & Issues
 
-If you come across a new data breach or notice outdated information, feel free to contribute. You can submit a pull request or open an issue for review.
+If you come across a new data breach or notice outdated information, feel free to contribute. You can submit a pull request or open an issue for review at [our github](https://github.com/YoureIronic/Historical-Data-Breaches-Archive).
 
 ## ❌ Database Removal Requests
 
