@@ -1,13 +1,14 @@
 # TRACKED database leak
 
+![tracked.sh logo](https://tracked.sh/favicon.ico)
+
 ## Description
 
-On approximately June 2025, the csint intelligence platform website <a href="" target="_blank" rel="noopener">tracked.sh suffered a major data breach</a> that exposed around 1k customer records.
+In June 2025, the csint intelligence platform website tracked.sh suffered a major data breach that exposed around 1k customer records.
 
 ## Breached data
 
 Account IDs, Access Tokens, Passwords, Email Addresses, User Searches, User Queries, IP Address, User Agent
-(perhaps more I havent fully checked)
 
 ## Download link
 

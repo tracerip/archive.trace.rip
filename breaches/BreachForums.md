@@ -12,4 +12,4 @@ Email Address, Password, IP Address, Username, Private Messages
 
 ## Download link
 
-[BreachForums Database Download Link]([https://pixeldrain.com/u/dFYXut7U](https://files.vc/d/dl?hash=416896dcc1d9a8975702d897535dd8c2))
+[BreachForums Database Download Link](https://buzzheavier.com/yqc0fyg6cgs3)

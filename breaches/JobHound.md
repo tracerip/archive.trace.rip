@@ -8,8 +8,8 @@ On approximately October 14th, the staffing and recruiting website <a href="http
 
 ## Breached data
 
-Email Address, First Name, Last Name, Registered, Gender, Languages, Birthday, Is Company Member, Candidate Active, Has Job Alerts, Shared Data, Location, Country, Referral
+Email Address, First Name, Last Name, Registered, Gender, Languages, Birthday, Location
 
 ## Download link
 
-[JobHound Database Download Link](https://files.vc/d/dl?hash=be74d051c7aed94b4297bbd146023154)
+[JobHound Database Download Link](https://buzzheavier.com/zfhb4p64woq4)

@@ -8,7 +8,7 @@ On approximately April 2024, the store company Pandabuy suffered a major data br
 
 ## Breached data
 
-UserId, First Name, Last Name, Phone Number, Emails, Login IP, Order_Data, Order_Id, Home_address, Zip, Country
+UserId, First Name, Last Name, Phone Number, Emails, Login IP, Order Data, Order Id, Home Address, Zip, Country
 
 ## Download link
 
