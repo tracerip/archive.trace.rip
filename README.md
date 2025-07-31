@@ -54,5 +54,5 @@ If you're interested in learning more about data breaches or cybersecurity:
 
 ## 🤷‍♀️ Misc
 
-- [Historical DB Archive Website](https://youreironic.github.io/Historical-Data-Breaches-Archive)
+- [Historical DB Archive Website](https://archive.trace.rip)
 - [trace.rip](https://trace.rip)
