@@ -4,7 +4,7 @@
 
 ## Description
 
-In July 2025, the women-only dating safety platform <a href="https://haveibeenpwned.com/Breach/PPCGeeks" target="_blank" rel="noopener">Tea suffered a data breach</a> that exposed around 🤷‍♀️ customer records.
+In July 2025, the women-only dating safety platform <a href="https://www.bleepingcomputer.com/news/security/tea-app-leak-worsens-with-second-database-exposing-user-chats/" target="_blank" rel="noopener">Tea suffered a data breach</a> that exposed around 🤷‍♀️ customer records.
 
 ## Breached data
 
