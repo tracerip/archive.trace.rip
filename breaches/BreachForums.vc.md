@@ -1,10 +1,10 @@
-# BreachForums v1 database leak
+# BreachForums.vc database leak
 
 <img src="https://upload.wikimedia.org/wikipedia/en/8/85/BreachForums_logo.png" alt="BreachForums Logo" width="200" height="200">
 
 ## Description
 
-On approximately 2023, the black hat hacking forum <a href="https://www.bleepingcomputer.com/news/security/fbi-seizes-breachforums-after-arresting-its-owner-pompompurin-in-march/" target="_blank" rel="noopener">BreachForums suffered a major data breach</a> that exposed around 4k customer records.
+On approximately June 2023, the black hat hacking forum <a href="https://news.sophos.com/en-us/2025/06/26/taking-the-shine-off-breachforums/" target="_blank" rel="noopener">BreachForums suffered a major data breach</a> that exposed around 4k customer records.
 
 ## Breached data
 
