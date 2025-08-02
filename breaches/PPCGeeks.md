@@ -1,6 +1,6 @@
 # PPCGeeks database leak
 
-![PPCGeeks Logo](https://ppcgeeks.ai/wp-content/uploads/2023/01/PPC-Geeks-Logo.png)
+![PPCGeeks Logo](https://web.archive.org/web/20250607185502if_/https://ppcgeeks.ai/wp-content/uploads/2023/01/PPC-Geeks-Logo.png)
 
 ## Description
 

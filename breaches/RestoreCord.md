@@ -1,6 +1,6 @@
 # RestoreCord database leak
 
-<img src="https://github.com/user-attachments/assets/9b1bde7a-523f-40ef-879d-7b61bd6a479d" alt="RestoreCord Logo" width="88" height="88">
+<img src="https://restorecord.com/favicon.ico" alt="RestoreCord Logo" width="200" height="200">
 
 ## Description
 

@@ -1,6 +1,6 @@
 # CommuteAir database leak
 
-<img src="https://i.imgur.com/vD1jemx.png" alt="CommuteAir Logo" width="100" height="100">
+<img src="https://i.imgur.com/vD1jemx.png" alt="CommuteAir Logo" width="200" height="200">
 
 ## Description
 

@@ -1,6 +1,6 @@
 # TRACKED database leak
 
-![tracked.sh logo](https://tracked.sh/favicon.ico)
+<img src="https://tracked.sh/favicon.ico" alt="tracked.sh Logo" width="200" height="200">
 
 ## Description
 

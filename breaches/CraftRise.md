@@ -1,6 +1,6 @@
 # CraftRise database leak
 
-<img src="https://logos.haveibeenpwned.com/CraftRise.png" alt="CraftRise Logo" width="88" height="88">
+<img src="https://logos.haveibeenpwned.com/CraftRise.png" alt="CraftRise Logo" width="200" height="200">
 
 ## Description
 
