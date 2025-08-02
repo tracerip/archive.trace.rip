@@ -12,4 +12,4 @@ Account IDs, Access Tokens, Passwords, Email Addresses, User Searches, User Quer
 
 ## Download link
 
-[TRACKED Database Download Link](https://files.vc/d/dl?hash=3416aa6449dea4010c7a92e39ac134bf)
+[TRACKED Database Download Link](https://buzzheavier.com/cn1ld7eq4zl1)
