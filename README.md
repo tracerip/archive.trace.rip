@@ -41,10 +41,6 @@ You can also contribute new data breaches by submitting a pull request or by sug
 
 If you come across a new data breach or notice outdated information, feel free to contribute. You can submit a pull request or open an issue for review at [our github](https://github.com/YoureIronic/Historical-Data-Breaches-Archive).
 
-## ❌ Database Removal Requests
-
-If you would like your database to be removed from the Historical Data Breaches Archive, please contact me on Discord at `@youreironic`. I will process your request promptly.
-
 ## 🔗 External Resources
 
 If you're interested in learning more about data breaches or cybersecurity:
