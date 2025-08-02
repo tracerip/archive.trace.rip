@@ -15,6 +15,7 @@ You can freely download any data breach file using the links provided down below
 - [CraftRise](./CraftRise.md)
 - [Doxbin 2020](https://archive.trace.rip/breaches/Doxbin%202020.html)
 - [Doxbin](./Doxbin.md)
+- [Foodora](./Foodora.md)
 - [JobHound](./JobHound.md)
 - [Lockbit](./Lockbit.md)
 - [Pandabuy](./Pandabuy.md)

@@ -1,0 +1,16 @@
+# Foodora database leak
+
+<img src="https://logos.haveibeenpwned.com/Foodora.png" alt="Foodora Logo" width="200" height="200">
+
+## Description
+
+In April 2016, the online food delivery service <a href="https://www.databreachtoday.com/delivery-hero-confirms-foodora-data-breach-a-14435" target="_blank" rel="noopener">Foodora suffered a major data breach</a> which was then extensively redistributed online. The databreach exposed around 582k customer records.
+
+## Breached data
+
+Email addresses, Names, Passwords, Phone numbers, Physical addresses,
+
+
+## Download link
+
+[Foodora Database Download Link](https://buzzheavier.com/2vxazxlp7j7d)
