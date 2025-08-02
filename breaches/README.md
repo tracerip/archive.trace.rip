@@ -16,6 +16,7 @@ You can freely download any data breach file using the links provided down below
 - [Doxbin 2020](https://archive.trace.rip/breaches/Doxbin%202020.html)
 - [Doxbin](./Doxbin.md)
 - [Foodora](./Foodora.md)
+- [Guns.com](./Guns.com.md)
 - [JobHound](./JobHound.md)
 - [Lockbit](./Lockbit.md)
 - [Pandabuy](./Pandabuy.md)
