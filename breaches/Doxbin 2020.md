@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Doxbin database leak
 
-<img src="https://archive.org/services/img/doxbin-muisc/full/pct:500/0/default.jpg" alt="Doxbin Logo" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/73e334d6-97a0-41de-98a9-2adad14bba42" alt="Doxbin Logo" width="200" height="200">
 
 ## Description
 
