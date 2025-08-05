@@ -1,4 +1,4 @@
-# Domino's database leak
+# 🍕 Domino's database leak
 
 <img src="https://logos.haveibeenpwned.com/Dominos.png" alt="Domino's Logo" width="200" height="200">
 

@@ -1,4 +1,4 @@
-# Foodora database leak
+# 😋 Foodora database leak
 
 <img src="https://logos.haveibeenpwned.com/Foodora.png" alt="Foodora Logo" width="200" height="200">
 

@@ -1,4 +1,4 @@
-# Tea database leak
+# 🍵 Tea database leak
 
 <img src="https://duckduckgo.com/i/62a84d514a91d06b.png" alt="Tea Logo" width="200" height="200">
 

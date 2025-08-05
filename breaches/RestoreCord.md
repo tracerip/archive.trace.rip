@@ -1,4 +1,4 @@
-# RestoreCord database leak
+# 🛠️ RestoreCord database leak
 
 <img src="https://files.catbox.moe/dgz5f6.ico" alt="RestoreCord Logo" width="200" height="200">
 

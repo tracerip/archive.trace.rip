@@ -1,4 +1,4 @@
-# LockBit database leak
+# 🔐 LockBit database leak
 
 ![LockBit Logo](https://www.vanroey.be/wp-content/uploads/LockBit-logo.png)
 

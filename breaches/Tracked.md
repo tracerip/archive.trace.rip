@@ -1,4 +1,4 @@
-# TRACKED database leak
+# 🕵️‍♀️ TRACKED database leak
 
 <img src="https://tracked.sh/favicon.ico" alt="tracked.sh Logo" width="200" height="200">
 

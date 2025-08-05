@@ -1,4 +1,4 @@
-# Twitter database leak
+# 🐦 Twitter database leak
 
 <img src="https://i.imgur.com/yKbRdRt.png" alt="Twitter Logo" width="200" height="200">
 

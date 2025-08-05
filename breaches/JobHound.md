@@ -1,4 +1,4 @@
-# JobHound database leak
+# 🔍 JobHound database leak
 
 ![JobHound Logo](https://support.jobhound.mt/wp-content/themes/docly/assets/img/logo-2x.png)
 

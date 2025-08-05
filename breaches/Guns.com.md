@@ -1,4 +1,4 @@
-# Guns.com database leak
+# 🔫 Guns.com database leak
 
 <img src="https://logos.haveibeenpwned.com/GunsDotCom.png" alt="Guns.com Logo" width="200" height="200">
 
