@@ -8,7 +8,7 @@ In July 2025, the women-only dating safety platform <a href="https://www.bleepin
 
 ## Breached data
 
-🤷‍♀️
+Selfies, Photo identification, Posts, Comments, Direct messages
 
 ## Magnet link
 
