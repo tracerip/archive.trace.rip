@@ -1,4 +1,4 @@
-# BreachForums database leak
+# 🛡️ BreachForums database leak
 
 <img src="https://upload.wikimedia.org/wikipedia/en/8/85/BreachForums_logo.png" alt="BreachForums Logo" width="200" height="200">
 
