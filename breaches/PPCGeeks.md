@@ -12,4 +12,4 @@ DOB, IP Address, Password, Username, Email Address
 
 ## Download link
 
-[PPCGeeks Database Download Link](https://files.vc/d/dl?hash=eb9793eed1953dbd093ca9e8fb7026e4)
+[PPCGeeks Database Download Link](https://buzzheavier.com/s9k47ej5wh8y)
