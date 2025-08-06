@@ -12,4 +12,4 @@ Email Address, Geographic Location, Password, Username
 
 ## Download link
 
-[CraftRise Database Download Link](https://files.vc/d/dl?hash=de29af6c8b96b1dff8e06487f5be21c2)
+[CraftRise Database Download Link](https://buzzheavier.com/fptdh8dlkvq4)
