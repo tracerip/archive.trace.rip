@@ -41,13 +41,12 @@ You can also contribute new data breaches by submitting a pull request or by sug
 
 If you come across a new data breach or notice outdated information, feel free to contribute. You can submit a pull request or open an issue for review at [our GitHub](https://github.com/YoureIronic/Historical-Data-Breaches-Archive).
 
-### 📋 Commit Types & Examples
+## 📋 Commit Types & Examples
 
 | Type     | Scope                | Description                                     | Example                                                        |
 | -------- | -------------------- | ----------------------------------------------- | -------------------------------------------------------------- |
 | **feat** | breach               | Upload or add new breach data                   | `feat(breach): add MegaData breach from July 2025`             |
 | **fix**  | link, description    | Correct existing breach details or download URLs | `fix(link): update download URL for SafeMail 2023 breach`      |
-| **docs** | README, contributing | Documentation updates about data format or submission process | `docs(README): clarify CSV field requirements for new breaches` |
 
 ## 🔗 External Resources
 
