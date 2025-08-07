@@ -4,7 +4,7 @@
 
 ## Description
 
-In April 2016, the online food delivery service <a href="https://www.databreachtoday.com/delivery-hero-confirms-foodora-data-breach-a-14435" target="_blank" rel="noopener">Foodora suffered a major data breach</a> which was then extensively redistributed online. The databreach exposed around 582k customer records.
+In April 2016, the online food delivery service <a href="https://www.databreachtoday.com/delivery-hero-confirms-foodora-data-breach-a-14435" target="_blank" rel="noopener">Foodora suffered a major data breach</a> which was then extensively redistributed online. The data breach exposed around 582k customer records.
 
 ## Breached data
 
