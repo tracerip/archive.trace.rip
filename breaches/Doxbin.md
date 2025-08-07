@@ -4,11 +4,11 @@
 
 ## Description
 
-On approximately January 2025, the forum used to post or leak personal data of any person <a href="https://cyberindemnity.org/2025/01/the-doxbin-data-breach-understanding-the-impact-of-435784-compromised-accounts/" target="_blank" rel="noopener">Doxbin suffered a major data breach</a> that exposed around 800k customer records.
+In February 2025, <a href="https://twitter.com/troyhunt/status/1681163196110098432">the "doxing" website Doxbin was compromised by a group calling themselves "TOoDA" and the data dumped publicly</a>. Included in the breach were 336k unique email addresses alongside usernames.
 
 ## Breached data
 
-User ID, Username, Email
+Usernames, Email addresses
 
 ## Download link
 
