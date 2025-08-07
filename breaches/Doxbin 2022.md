@@ -7,7 +7,7 @@ In January 2022, the "doxing" website designed to disclose the personal informat
 
 ## Breached data
 
-User Agent, Username, Password, Email Address
+Browser user agent details, Email addresses, Passwords, Usernames
 
 ## Download link
 
