@@ -14,7 +14,7 @@ You can freely download any data breach file using the links provided down below
 - [CommuteAir](./CommuteAir.md)
 - [CraftRise](./CraftRise.md)
 - [Dominos](./Dominos.md)
-- [Doxbin 2020](https://archive.trace.rip/breaches/Doxbin%202020.html)
+- [Doxbin 2022](https://archive.trace.rip/breaches/Doxbin%202022.html)
 - [Doxbin](./Doxbin.md)
 - [Foodora](./Foodora.md)
 - [Guns.com](./Guns.com.md)
