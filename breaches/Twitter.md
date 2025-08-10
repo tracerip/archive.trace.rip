@@ -13,4 +13,4 @@ Email Address, First Name, Last Name, Username, Follower Amount, Created At
 
 ## Download link
 
-[Twitter Database Download Link](https://drive.google.com/u/7/uc?id=1r9FWN-GRkgD7yQthfAjpBzNAdiKoiGrH&export=download)
+[Twitter Database Download Link](https://buzzheavier.com/ei0t32lnqgh1)
