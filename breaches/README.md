@@ -39,8 +39,6 @@ If you come across a new data breach or notice outdated information, feel free t
 ## 🔗 External Resources
 
 If you're interested in learning more about data breaches or cybersecurity:
-- [Stay Safe Online - Cybersecurity Tips](https://staysafeonline.org)
 - [Have I Been Pwned](https://haveibeenpwned.com)
-- [Have I Been Pwned - Passwords](https://haveibeenpwned.com/Passwords)
-- [freemediaheckyeah](https://fmhy.net)
 - [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)
+- [freemediaheckyeah](https://fmhy.net)
