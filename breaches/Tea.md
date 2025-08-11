@@ -12,4 +12,4 @@ Selfies, Photo identification, Posts, Comments, Direct messages
 
 ## Download link
 
-[Tea Database Download Link](https://privatebin.at/?0f64976a0ae7a4d0#5Qeh7K1jAsDMvqwnEbmcKJPxzCj9hGH8ycs3mipeHwDo)
+[Tea Database Download Link](https://bin.0xfc.de/?c6fa573d4117302a#6ANgbd1et4QnN31ELVJV6swFHKkrUvQgwPcNf6jvkRMG)
