@@ -10,6 +10,6 @@ In July 2025, the women-only dating safety platform <a href="https://www.bleepin
 
 Selfies, Photo identification, Posts, Comments, Direct messages
 
-## Magnet link
+## Download link
 
-`magnet:?xt=urn:btih:0c57cecb78961d34f96972d936c5752b315e63f2&dn=tea`
+[Tea Database Download Link](https://privatebin.at/?0f64976a0ae7a4d0#5Qeh7K1jAsDMvqwnEbmcKJPxzCj9hGH8ycs3mipeHwDo)
