@@ -4,11 +4,11 @@
 
 ## Description
 
-On approximately June 2023, the black hat hacking forum <a href="https://news.sophos.com/en-us/2025/06/26/taking-the-shine-off-breachforums/" target="_blank" rel="noopener">BreachForums suffered a major data breach</a> that exposed around 4k customer records.
+In June 2023, <a href="https://www.hackread.com/breachforums-data-breach-members-data-leak/">a clone of the previously shuttered popular hacking forum "BreachForums" suffered a data breach that exposed over 4k records</a>. The breach was due to an exposed backup of the MyBB database which included email and IP addresses, usernames and Argon2 password hashes.
 
 ## Breached data
 
-Username, Password, Email Address, Google, Telegram, Birthday & More
+Email addresses, IP addresses, Passwords, Usernames
 
 ## Download link
 
