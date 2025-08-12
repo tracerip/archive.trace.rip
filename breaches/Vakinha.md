@@ -1,6 +1,6 @@
 # 💸 Vakinha database leak
 
-<img src="https://logos.haveibeenpwned.com/TheRealWorld.png" alt="Vakinha Logo" width="200" height="200">
+<img src="https://logos.haveibeenpwned.com/Vakinha.png" alt="Vakinha Logo" width="200" height="200">
 
 ## Description
 
