@@ -4,12 +4,12 @@
 
 ## Description
 
-In January 2023, the No Fly List stored by <a href="https://maia.crimew.gay/posts/how-to-hack-an-airline/" target="_blank" rel="noopener">CommuteAir suffered a data breach</a> that exposed around 1.8M TSA No Fly (2019) records.
+In January of 2023, <a href="https://maia.crimew.gay/posts/how-to-hack-an-airline/">CommuteAir suffered a breach</a> that exposed the US Department of Homeland Security’s “No Fly” and Selective Screening lists containing over 1.5 million records, along with CommuteAir employee information. The attacker found an exposed Jenkins server and was able to access different build workspaces containing repositories for the build jobs. On the Jenkins server, the attacker found access keys that offered access to the CommuteAir environment. After investigating the AWS Infrastructure, the attacker found the No Fly List among test data on the Jenkins server.
 
 ## Breached data
 
-Full Name, Date of Birth
+Names, Date of Birth
 
 ## Download link
 
-[TSA No Fly List Download Link](https://buzzheavier.com/wwlw7unou49m)
+[TSA No Fly List Download Link](https://bin.0xfc.de/?192102f4f27d09bb#6iXf11M6mYuLDV1xBLRBfEmKCpfuwNegSnCvNRSmgkVy)
