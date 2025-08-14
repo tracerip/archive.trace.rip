@@ -23,6 +23,7 @@ You can freely download any data breach file using the links provided down below
 - [JobHound](./JobHound.md)
 - [Lockbit](./Lockbit.md)
 - [Pandabuy](./Pandabuy.md)
+- [Poshmark](./Poshmark.md)
 - [PPCGeeks](./PPCGeeks.md)
 - [RestoreCord](./RestoreCord.md)
 - [Roblox Developers Conference](https://archive.trace.rip/breaches/Roblox%20Developers%20Conference.html)
