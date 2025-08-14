@@ -18,6 +18,7 @@ You can freely download any data breach file using the links provided down below
 - [Dominos](./Dominos.md)
 - [Doxbin 2022](https://archive.trace.rip/breaches/Doxbin%202022.html)
 - [Doxbin](./Doxbin.md)
+- [Dubsmash](./Dubsmash)
 - [Explore Talent](https://archive.trace.rip/breaches/Explore%20Talent.html)
 - [Foodora](./Foodora.md)
 - [Guns.com](./Guns.com.md)
