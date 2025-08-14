@@ -1,14 +1,14 @@
 # 🐼 Pandabuy database leak
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstyles.redditmedia.com%2Ft5_33t4jy%2Fstyles%2FcommunityIcon_q3wjix3wfcrc1.png&f=1&nofb=1&ipt=8ace1278a4f41d38ccc0bfd60fc34cb5fe291aced52d50711bcf55cf77e5871d" alt="Pandabuy Logo" width="200" height="200">
+<img src="https://logos.haveibeenpwned.com/Pandabuy.png" alt="Pandabuy Logo" width="200" height="200">
 
 ## Description
 
-On approximately April 2024, the store company Pandabuy suffered a major data breach that exposed around 3m customer records.
+In March 2024, </a href="https://twitter.com/troyhunt/status/1774704266500043067">1.3M unique email addresses from the online store for purchasing goods from China, Pandabuy, were posted to a popular hacking forum</a>. The data also included IP and physical addresses, names, phone numbers and order enquiries. The breach was alleged to be attributed to "Sanggiero" and "IntelBroker".
 
 ## Breached data
 
-UserId, First Name, Last Name, Phone Number, Emails, Login IP, Order Data, Order Id, Home Address, Zip, Country
+Email addresses, IP addresses, Names, Phone numbers, Physical addresses
 
 ## Download link
 
