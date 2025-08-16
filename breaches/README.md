@@ -47,3 +47,8 @@ If you're interested in learning more about data breaches or cybersecurity:
 - [Have I Been Pwned](https://haveibeenpwned.com)
 - [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)
 - [freemediaheckyeah](https://fmhy.net)
+
+## 🤷‍♀️ Misc
+
+- [Historical DB Archive Website](https://archive.trace.rip)
+- [trace.rip](https://trace.rip) / [2](https://searchub.vip)
