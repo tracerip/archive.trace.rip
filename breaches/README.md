@@ -39,7 +39,7 @@ You can freely download any data breach file using the links provided down below
 
 ## 🔧 Contributions & Issues
 
-If you come across a new data breach or notice outdated information, feel free to contribute. You can submit a pull request or open an issue for review at [our github](https://github.com/YoureIronic/Historical-Data-Breaches-Archive).
+If you come across a new data breach, stealer logs, or notice outdated information, feel free to contribute. You can submit a pull request or open an issue for review at [our GitHub](https://github.com/YoureIronic/Historical-Data-Breaches-Archive).
 
 ## 🔗 External Resources
 
