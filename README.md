@@ -1,10 +1,10 @@
 # 📂 Historical Data Breaches Archive
 
-Welcome to the **Historical Data Breaches Archive**! This repository contains a comprehensive and ever-growing collection of data breaches and scrapes throughout history. All the data breaches stored here are publicly available and can be freely downloaded for research, analysis, or educational purposes.
+Welcome to the **Historical Data Breaches Archive**! This repository contains a comprehensive and ever-growing collection of data breaches and stealer logs throughout history. All the data breaches stored here are publicly available and can be freely downloaded for research, analysis, or educational purposes.
 
 ## 🔍 About This Repository
 
-This repository is a centralized hub for **data breaches** and **scrapes** that have occurred over the years. Whether you are a cybersecurity researcher, data analyst, or simply curious about data breaches, you can access, download, and explore these datasets.
+This repository is a centralized hub for **data breaches** and **stealer logs** that have occurred over the years. Whether you are a cybersecurity researcher, data analyst, or simply curious about data breaches, you can access, download, and explore these datasets.
 
 ### Key Features:
 - 📜 **Complete List of Data Breaches**: Every breach is cataloged with its details.
@@ -13,9 +13,9 @@ This repository is a centralized hub for **data breaches** and **scrapes** that 
 
 ## 🚀 How to Download
 
-You can freely download any data breach file using the links provided in the `breaches` directory. Each breach is stored in a separate file with detailed information. Follow these steps:
+You can freely download any data breach file using the links provided in the `breaches` or `stealer-logs` directory. Each breach is stored in a separate file with detailed information. Follow these steps:
 
-1. Navigate to the [Data Breaches Directory](./breaches).
+1. Navigate to the [Data Breaches Directory](./breaches) or [Stealer Logs Directory](./stealer-logs).
 2. Choose the breach file you're interested in.
 3. Click on the download link at the bottom to save the file to your local machine.
 
@@ -39,7 +39,7 @@ You can also contribute new data breaches by submitting a pull request or by sug
 
 ## 🔧 Contributions & Issues
 
-If you come across a new data breach or notice outdated information, feel free to contribute. You can submit a pull request or open an issue for review at [our GitHub](https://github.com/YoureIronic/Historical-Data-Breaches-Archive).
+If you come across a new data breach, stealer logs, or notice outdated information, feel free to contribute. You can submit a pull request or open an issue for review at [our GitHub](https://github.com/YoureIronic/Historical-Data-Breaches-Archive).
 
 ## 📋 Commit Types & Examples
 
