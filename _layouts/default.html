@@ -76,7 +76,9 @@
 <body>
   <main>
     {% assign path = page.url | default: page.permalink | default: '' %}
-    {% if path contains '/stealer-logs/' %}
+    {% if path == '/stealer-logs/' or path == '/breaches/' %}
+      <a href="/" class="back-btn">← Back to Main Page</a>
+    {% elsif path contains '/stealer-logs/' %}
       <a href="/stealer-logs" class="back-btn">← Back to Main Page</a>
     {% elsif path contains '/breaches/' %}
       <a href="/breaches" class="back-btn">← Back to Main Page</a>
