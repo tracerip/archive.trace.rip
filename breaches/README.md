@@ -29,7 +29,7 @@ You can freely download any data breach file using the links provided down below
 - [Doxbin 2022](https://archive.trace.rip/breaches/Doxbin2022)
 - [Doxbin](./Doxbin.md)
 - [Dubsmash](./Dubsmash)
-- [Explore Talent](https://archive.trace.rip/breaches/ExploreTalent)
+- [Explore Talent](./Explore%20Talent.md)
 - [Foodora](./Foodora.md)
 - [Guns.com](./Guns.com.md)
 - [JobHound](./JobHound.md)
