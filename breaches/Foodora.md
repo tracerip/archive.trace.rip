@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Foodora database leak"
+description: "Details about the 2016 Foodora data breach affecting 582k customers."
+permalink: /breaches/foodora/
+image: "https://logos.haveibeenpwned.com/Foodora.png"
+---
+
 # 😋 Foodora database leak
 
 <img src="https://logos.haveibeenpwned.com/Foodora.png" alt="Foodora Logo" width="200" height="200">
@@ -9,7 +17,6 @@ In April 2016, the online food delivery service <a href="https://www.databreacht
 ## Breached data
 
 Email addresses, Names, Passwords, Phone numbers, Physical addresses,
-
 
 ## Download link
 
