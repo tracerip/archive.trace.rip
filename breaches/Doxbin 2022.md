@@ -3,15 +3,16 @@ layout: default
 title: "Doxbin database leak"
 description: "In January 2022, the doxing website designed to disclose the personal information of targeted individuals (doxes) Doxbin suffered a data breach."
 permalink: /breaches/Doxbin2022/
-image: "https://github.com/user-attachments/assets/73e334d6-97a0-41de-98a9-2adad14bba42"
+image: "https://logos.haveibeenpwned.com/Doxbin.png"
 ---
 
 # 🕵️‍♂️ Doxbin database leak
 
-<img src="https://github.com/user-attachments/assets/73e334d6-97a0-41de-98a9-2adad14bba42" alt="Doxbin Logo" width="200" height="200">
+<img src="https://logos.haveibeenpwned.com/Doxbin.png" alt="Doxbin Logo" width="200" height="200">
 
 ## Description
-In January 2022, the "doxing" website designed to disclose the personal information of targeted individuals ("doxes") <a href="https://www.flashpoint-intel.com/blog/doxbin-leak/">Doxbin suffered a data breach</a>. The breach was subsequently leaked online and included over 370k unique email addresses across user accounts and doxes. User accounts also included usernames, password hashes and browser user agents. The personal information disclosed in the doxes was often extensive including names, physical addresses, phone numbers and more.
+
+In January 2022, the &quot;doxing&quot; website designed to disclose the personal information of targeted individuals (&quot;doxes&quot;) <a href="https://www.flashpoint-intel.com/blog/doxbin-leak/" target="_blank" rel="noopener">Doxbin suffered a data breach</a>. The breach was subsequently leaked online and included over 370k unique email addresses across user accounts and doxes. User accounts also included usernames, password hashes and browser user agents. The personal information disclosed in the doxes was often extensive including names, physical addresses, phone numbers and more.
 
 ## Breached data
 

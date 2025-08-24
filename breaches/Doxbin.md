@@ -3,16 +3,16 @@ layout: default
 title: "Doxbin database leak"
 description: "In February 2025, the doxing website Doxbin was compromised by a group calling themselves TOoDA and the data dumped publicly. Included in the breach were 336k unique email addresses alongside usernames."
 permalink: /breaches/Doxbin/
-image: "https://github.com/user-attachments/assets/73e334d6-97a0-41de-98a9-2adad14bba42"
+image: "https://logos.haveibeenpwned.com/Doxbin.png"
 ---
 
 # 🕵️‍♂️ Doxbin database leak
 
-<img src="https://github.com/user-attachments/assets/73e334d6-97a0-41de-98a9-2adad14bba42" alt="Doxbin Logo" width="200" height="200">
+<img src="https://logos.haveibeenpwned.com/Doxbin.png" alt="Doxbin Logo" width="200" height="200">
 
 ## Description
 
-In February 2025, <a href="https://twitter.com/troyhunt/status/1681163196110098432">the "doxing" website Doxbin was compromised by a group calling themselves "TOoDA" and the data dumped publicly</a>. Included in the breach were 336k unique email addresses alongside usernames.
+In February 2025, <a href="https://x.com/vxunderground/status/1889487191283474872" target="_blank" rel="noopener">the &quot;doxing&quot; website Doxbin was compromised by a group calling themselves &quot;TOoDA&quot; and the data dumped publicly</a>. Included in the breach were 336k unique email addresses alongside usernames.
 
 ## Breached data
 
