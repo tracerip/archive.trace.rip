@@ -4,15 +4,24 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#181818">
+  <meta name="keywords" content="data breaches, breach archive, cybersecurity, stealer logs, breach downloads, breach research, data science, academic studies, cybercrime, breach datasets, security research, breach analysis, download data breaches, breach history, breach repository, breach database, breach list, breach collection, breach files, breach logs, breach incidents, breach education, breach resources, breach trends, breach patterns, breach vulnerabilities, breach prevention, breach research hub">
   <title>{{ page.title | default: site.title }}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
+
+  <!-- Open Graph Tags -->
   <meta property="og:title" content="{{ page.title | default: site.title }}">
   <meta property="og:description" content="{{ page.description | default: site.description }}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:image" content="{{ page.image | default: site.image }}">
-  <meta name="theme-color" content="#181818">
-  <meta name="keywords" content="data breaches, breach archive, cybersecurity, stealer logs, breach downloads, breach research, data science, academic studies, cybercrime, breach datasets, security research, breach analysis, download data breaches, breach history, breach repository, breach database, breach list, breach collection, breach files, breach logs, breach incidents, breach education, breach resources, breach trends, breach patterns, breach vulnerabilities, breach prevention, breach research hub">
+  
+  <!-- Twitter Card Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title | default: site.title }}">
+  <meta name="twitter:description" content="{{ page.description | default: site.description }}">
+  <meta name="twitter:image" content="{{ page.image | default: site.image }}">
+
   {% include head.html %}
 </head>
 <style>
