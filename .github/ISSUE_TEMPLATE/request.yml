@@ -1,0 +1,45 @@
+name: "Request a New Breach"
+description: "Suggest a new data breach to be added to the archive."
+title: "[Breach Request] <Breach Name>"
+labels: ["breach request"]
+body:
+  - type: input
+    id: breach_name
+    attributes:
+      label: "Breach Name"
+      description: "What is the name of the breached service or company?"
+      placeholder: "Example: Foodora"
+    validations:
+      required: true
+  - type: input
+    id: breach_date
+    attributes:
+      label: "Date of Breach (if known)"
+      description: "When did the breach occur? (Month/Year or Year)"
+      placeholder: "April 2016"
+    validations:
+      required: false
+  - type: textarea
+    id: breach_description
+    attributes:
+      label: "Description"
+      description: "Briefly describe the breach and what data was exposed."
+      placeholder: "In April 2016, Foodora suffered a data breach exposing customer records including emails and passwords."
+    validations:
+      required: false
+  - type: input
+    id: source
+    attributes:
+      label: "Source / Reference Link"
+      description: "Provide a link to a news article, forum post, or official statement about the breach."
+      placeholder: "https://haveibeenpwned.com/Breach/Foodora"
+    validations:
+      required: true
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: "Additional Information (optional)"
+      description: "Any extra details, download links, or context."
+      placeholder: "Download link, breach size, etc."
+    validations:
+      required: false
