@@ -6,6 +6,8 @@ permalink: /breaches/DarkForums/
 image: "https://darkforums.st/images/DFnew.png"
 ---
 
+⚠️ POSSIBLY FAKE
+
 # 🧑‍💻 DarkForums database leak
 
 <img src="https://darkforums.st/images/DFnew.png" alt="DarkForums Logo" width="200" height="200">
