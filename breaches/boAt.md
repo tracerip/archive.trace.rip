@@ -6,8 +6,6 @@ permalink: /breaches/boAt/
 image: "https://logos.haveibeenpwned.com/boAt.png"
 ---
 
-⚠️ POSSIBLY FAKE
-
 # 🔉 boAt database leak
 
 <img src="https://logos.haveibeenpwned.com/boAt.png" alt="boAt Logo" width="200" height="80">
