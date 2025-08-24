@@ -11,15 +11,41 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:image" content="{{ page.image | default: site.image }}">
+  <meta name="theme-color" content="#181818">
   {% include head.html %}
 </head>
 <style>
+  body {
+    background: #181818;
+    color: #f5f5f5;
+    font-family: 'Segoe UI', 'Arial', sans-serif;
+    margin: 0;
+    min-height: 100vh;
+  }
   main {
     max-width: 700px;
     margin: 2rem auto;
     padding: 1rem;
     text-align: left;
-    background: transparent;
+    background: #222;
+    border-radius: 8px;
+    box-shadow: 0 2px 16px rgba(0,0,0,0.3);
+  }
+  a {
+    color: #7edfff;
+  }
+  a.button, main a[href="/breaches"] {
+    display: inline-block;
+    margin-bottom: 1.5rem;
+    padding: 0.5rem 1rem;
+    background: #222;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background 0.2s;
+  }
+  a.button:hover, main a[href="/breaches"]:hover {
+    background: #333;
   }
 </style>
 </head>
