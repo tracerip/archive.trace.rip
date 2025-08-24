@@ -1,4 +1,12 @@
-# 🕵️‍♀️ TRACKED database leak
+---
+layout: default
+title: "TRACKED.sh database leak"
+description: "In June 2025, the csint intelligence platform website tracked.sh suffered a major data breach that exposed around 1k customer records."
+permalink: /breaches/TRACKED/
+image: "https://tracked.sh/favicon.ico"
+---
+
+# 🕵️‍♀️ Tracked.sh database leak
 
 <img src="https://tracked.sh/favicon.ico" alt="tracked.sh Logo" width="200" height="200">
 

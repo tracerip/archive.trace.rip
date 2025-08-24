@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Doxbin database leak"
+description: "In January 2022, the doxing website designed to disclose the personal information of targeted individuals (doxes) Doxbin suffered a data breach."
+permalink: /breaches/Doxbin2022/
+image: "https://github.com/user-attachments/assets/73e334d6-97a0-41de-98a9-2adad14bba42"
+---
+
 # 🕵️‍♂️ Doxbin database leak
 
 <img src="https://github.com/user-attachments/assets/73e334d6-97a0-41de-98a9-2adad14bba42" alt="Doxbin Logo" width="200" height="200">

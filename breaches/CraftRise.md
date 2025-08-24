@@ -1,3 +1,11 @@
+---
+layout: default
+title: "CraftRise database leak"
+description: "In May 2023, the Turkish Minecraft server CraftRise suffered a data breach that exposed around 2.5m customer records."
+permalink: /breaches/CraftRise/
+image: "https://logos.haveibeenpwned.com/CraftRise.png"
+---
+
 # ⛏️ CraftRise database leak
 
 <img src="https://logos.haveibeenpwned.com/CraftRise.png" alt="CraftRise Logo" width="200" height="200">

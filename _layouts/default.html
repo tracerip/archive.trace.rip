@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <meta property="og:description" content="{{ page.description | default: site.description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ page.image | default: site.image }}">
+  <meta name="theme-color" content="#181818">
+  <meta name="keywords" content="data breaches, breach archive, cybersecurity, stealer logs, breach downloads, breach research, data science, academic studies, cybercrime, breach datasets, security research, breach analysis, download data breaches, breach history, breach repository, breach database, breach list, breach collection, breach files, breach logs, breach incidents, breach education, breach resources, breach trends, breach patterns, breach vulnerabilities, breach prevention, breach research hub">
+  {% include head.html %}
+</head>
+<style>
+  body {
+    background: #181818;
+    color: #f5f5f5;
+    font-family: 'Segoe UI', 'Arial', sans-serif;
+    margin: 0;
+    min-height: 100vh;
+  }
+  main {
+    max-width: 700px;
+    margin: 2rem auto;
+    padding: 1rem;
+    text-align: left;
+    background: #222;
+    border-radius: 8px;
+    box-shadow: 0 2px 16px rgba(0,0,0,0.3);
+  }
+  a {
+    color: #7edfff;
+  }
+  a.button, main a[href="/breaches"] {
+    display: inline-block;
+    margin-bottom: 1.5rem;
+    padding: 0.5rem 1rem;
+    background: #222;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background 0.2s;
+  }
+  a.button:hover, main a[href="/breaches"]:hover {
+    background: #333;
+  }
+</style>
+</head>
+<body>
+  <main>
+    <a href="/breaches" style="display:inline-block;margin-bottom:1.5rem;padding:0.5rem 1rem;background:#222;color:#fff;text-decoration:none;border-radius:4px;">← Back to Main Page</a>
+    {{ content }}
+  </main>
+</body>
+</html>

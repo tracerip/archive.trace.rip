@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Tea database leak"
+description: "In July 2025, the women-only dating safety platform Tea suffered a data breach that exposed around 🤷‍♀️ customer records."
+permalink: /breaches/Tea/
+image: "https://duckduckgo.com/i/62a84d514a91d06b.png"
+---
+
 # 🍵 Tea database leak
 
 <img src="https://duckduckgo.com/i/62a84d514a91d06b.png" alt="Tea Logo" width="200" height="200">

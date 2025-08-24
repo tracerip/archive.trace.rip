@@ -1,3 +1,11 @@
+---
+layout: default
+title: "devkitPro database leak"
+description: "In February 2019, the devkitPro forum suffered a data breach. The phpBB based forum had 1,508 unique email addresses exposed in the breach alongside forum posts, private messages and passwords stored as weak salted hashes."
+permalink: /breaches/devkitPro/
+image: "https://logos.haveibeenpwned.com/devkitPro.png"
+---
+
 # 🧑‍💻 devkitPro database leak
 
 <img src="https://logos.haveibeenpwned.com/devkitPro.png" alt="devkitPro Logo">

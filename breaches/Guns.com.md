@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Guns.com database leak"
+description: "In January 2021, the firearms website guns.com suffered a data breach."
+permalink: /breaches/GunsDotCom/
+image: "https://logos.haveibeenpwned.com/GunsDotCom.png"
+---
+
 # 🔫 Guns.com database leak
 
 <img src="https://logos.haveibeenpwned.com/GunsDotCom.png" alt="Guns.com Logo" width="200" height="200">

@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Poshmark database leak"
+description: "In mid-2018, social commerce marketplace Poshmark suffered a data breachthat exposed 36M user accounts. The compromised data included email addresses, names, usernames, genders, locations and passwords stored as bcrypt hashes."
+permalink: /breaches/Poshmark/
+image: "https://logos.haveibeenpwned.com/Poshmark.png"
+---
+
 # 💷 Poshmark database leak
 
 <img src="https://logos.haveibeenpwned.com/Poshmark.png" alt="Poshmark Logo" width="200" height="200">
