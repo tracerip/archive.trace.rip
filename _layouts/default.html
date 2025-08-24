@@ -9,6 +9,17 @@
   <title>{{ page.title | default: site.title }}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
 
+  {% assign favicon_ext = (page.image | default: site.image) | split:'.' | last | downcase %}
+  {% if favicon_ext == 'ico' %}
+    <link rel="icon" type="image/x-icon" href="{{ page.image | default: site.image }}">
+  {% elsif favicon_ext == 'svg' %}
+    <link rel="icon" type="image/svg+xml" href="{{ page.image | default: site.image }}">
+  {% elsif favicon_ext == 'jpg' or favicon_ext == 'jpeg' %}
+    <link rel="icon" type="image/jpeg" href="{{ page.image | default: site.image }}">
+  {% else %}
+    <link rel="icon" type="image/png" href="{{ page.image | default: site.image }}">
+  {% endif %}
+
   <!-- Open Graph Tags -->
   <meta property="og:title" content="{{ page.title | default: site.title }}">
   <meta property="og:description" content="{{ page.description | default: site.description }}">
