@@ -1,9 +1,17 @@
+---
+layout: default
+title: "The Real World database leak"
+description: "In November 2024, the online course founded by Andrew Tate known as The Real World suffered a data breach that exposed almost 325k users of the platform."
+permalink: /breaches/TheRealWorld/
+image: "https://logos.haveibeenpwned.com/TheRealWorld.png"
+---
+
 # ♟️ The Real World database leak
 
 <img src="https://logos.haveibeenpwned.com/TheRealWorld.png" alt="The Real World Logo" width="200" height="200">
 
 ## Description
-In November 2024, the online course founded by Andrew Tate known as "The Real World" (previously "Hustler's University" <a href="https://www.dailydot.com/debug/andrew-tate-the-real-world-hack/">suffered a data breach that exposed almost 325k users of the platform</a>. The impacted data was limited to usernames, email addresses and chat logs.
+In November 2024, the online course founded by Andrew Tate known as "The Real World" (previously "Hustler's University") <a href="https://www.dailydot.com/debug/andrew-tate-the-real-world-hack/">suffered a data breach that exposed almost 325k users of the platform</a>. The impacted data was limited to usernames, email addresses and chat logs.
 
 ## Breached data
 

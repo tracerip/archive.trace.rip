@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Explore Talent database leak"
+description: "In July 2024, a data breach attributed to Explore Talent was publicly posted to a popular hacking forum."
+permalink: /breaches/ExploreTalent/
+image: "https://logos.haveibeenpwned.com/ExploreTalent.png"
+---
+
 # ⭐ Explore Talent database leak
 
 <img src="https://logos.haveibeenpwned.com/ExploreTalent.png" alt="Explore Talent Logo" width="200" height="200">

@@ -1,3 +1,11 @@
+---
+layout: default
+title: "PPCGeeks database leak"
+description: "In August 2016, the pocket PC fan site forum PPCGeeks suffered a data breach that exposed around 490k customer records."
+permalink: /breaches/PPCGeeks/
+image: "https://web.archive.org/web/20250607185502if_/https://ppcgeeks.ai/wp-content/uploads/2023/01/PPC-Geeks-Logo.png"
+---
+
 # 💻 PPCGeeks database leak
 
 ![PPCGeeks Logo](https://web.archive.org/web/20250607185502if_/https://ppcgeeks.ai/wp-content/uploads/2023/01/PPC-Geeks-Logo.png)

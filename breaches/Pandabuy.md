@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Pandabuy database leak"
+description: "In March 2024, 1.3M unique email addresses from the online store for purchasing goods from China, Pandabuy, were posted to a popular hacking forum."
+permalink: /breaches/Pandabuy/
+image: "https://logos.haveibeenpwned.com/Pandabuy.png"
+---
+
 # 🐼 Pandabuy database leak
 
 <img src="https://logos.haveibeenpwned.com/Pandabuy.png" alt="Pandabuy Logo" width="200" height="200">

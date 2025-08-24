@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Foodora database leak"
-description: "Details about the 2016 Foodora data breach affecting 582k customers."
-permalink: /breaches/foodora/
+description: "In April 2016, the online food delivery service Foodora suffered a major data breach which was then extensively redistributed online. The data breach exposed around 582k customer records."
+permalink: /breaches/Foodora/
 image: "https://logos.haveibeenpwned.com/Foodora.png"
 ---
 
