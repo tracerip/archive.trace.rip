@@ -55,24 +55,32 @@
   a {
     color: #7edfff;
   }
-  a.button, main a[href="/breaches"] {
+  .back-btn {
     display: inline-block;
     margin-bottom: 1.5rem;
     padding: 0.5rem 1rem;
     background: #222;
-    color: #fff;
+    color: inherit;
     text-decoration: none;
     border-radius: 4px;
     transition: background 0.2s;
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
   }
-  a.button:hover, main a[href="/breaches"]:hover {
+  .back-btn:hover {
     background: #333;
   }
 </style>
 </head>
 <body>
   <main>
-    <a href="/breaches" style="display:inline-block;margin-bottom:1.5rem;padding:0.5rem 1rem;background:#222;color:#fff;text-decoration:none;border-radius:4px;">← Back to Main Page</a>
+    {% assign path = page.url | default: page.permalink | default: '' %}
+    {% if path contains '/stealer-logs/' %}
+      <a href="/stealer-logs" class="back-btn">← Back to Main Page</a>
+    {% elsif path contains '/breaches/' %}
+      <a href="/breaches" class="back-btn">← Back to Main Page</a>
+    {% endif %}
     {{ content }}
   </main>
 </body>
