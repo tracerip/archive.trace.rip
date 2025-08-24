@@ -13,6 +13,16 @@
   <meta property="og:image" content="{{ page.image | default: site.image }}">
   {% include head.html %}
 </head>
+<style>
+  main {
+    max-width: 700px;
+    margin: 2rem auto;
+    padding: 1rem;
+    text-align: left;
+    background: transparent;
+  }
+</style>
+</head>
 <body>
   <main>
     {{ content }}
