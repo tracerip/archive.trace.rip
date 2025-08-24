@@ -9,7 +9,7 @@ You can freely download any stealer log file using the links provided down below
 
 ## 📂 List of Breaches
 
-- [North Korea](https://archive.trace.rip/stealer-logs/North%20Korea.html)
+- [North Korea](https://archive.trace.rip/stealer-logs/NorthKorea)
 
 ## 🔧 Contributions & Issues
 
