@@ -20,4 +20,4 @@ Email addresses, Names, Phone numbers, Physical addresses
 
 ## Download link
 
-[boAt Database Download Link](https://bin.0xfc.de/?02a6fd1faa36fe6d#3SEDw7hB4iuX66fQhNHEj4SoNASM28TnAixAVu6PxeUL)
+[boAt Database Download Link](https://bin.0xfc.de/?e3ee68cd78f84cdb#HgtetzRkxVuxz6XxNRWU5UkLfynDNyQ4dkdUwePTircn)
