@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Stealer Logs Archive"
+description: "Welcome to the Historical Data Breaches Archive! This repository contains a comprehensive and ever-growing collection of stealer logs throughout history. All the logs stored here are publicly available and can be freely downloaded for research, analysis, or educational purposes."
+permalink: /stealer-logs/
+image: "https://images.icon-icons.com/362/PNG/512/File-explorer_36762.png"
+---
+
 # 📂 Stealer Logs Archive
 
 ## 🚀 How to Download
