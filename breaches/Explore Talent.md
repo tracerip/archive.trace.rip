@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Explore Talent database leak"
+title: "Explore Talent Database Leak | Historical Data Breaches Archive"
 description: "In July 2024, a data breach attributed to Explore Talent was publicly posted to a popular hacking forum."
 permalink: /breaches/ExploreTalent/
 image: "https://logos.haveibeenpwned.com/ExploreTalent.png"

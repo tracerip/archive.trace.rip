@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "tools-markets database leak"
+title: "tools-markets Database Leak | Historical Data Breaches Archive"
 description: "In August 2024, the russian market website tools-markets suffered a major data breach that exposed around 2k customer records."
 permalink: /breaches/toolsmarkets/
 image: "https://logos.haveibeenpwned.com/TheRealWorld.png"

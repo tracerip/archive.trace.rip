@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Vakinha database leak"
+title: "Vakinha Database Leak | Historical Data Breaches Archive"
 description: "In June 2020, the Brazilian fund raising service Vakinha suffered a data breach which impacted almost 4.8 million members."
 permalink: /breaches/Vakinha/
 image: "https://logos.haveibeenpwned.com/Vakinha.png"

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Roblox database leak"
+title: "Roblox Database Leak | Historical Data Breaches Archive"
 description: "In July 2016, the online gaming website Roblox suffered a major data breach that exposed around 50k customer records."
 permalink: /breaches/Roblox/
 image: "https://logos.haveibeenpwned.com/Roblox.png"

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "TRACKED.sh database leak"
+title: "TRACKED.sh Database Leak | Historical Data Breaches Archive"
 description: "In June 2025, the csint intelligence platform website tracked.sh suffered a major data breach that exposed around 1k customer records."
 permalink: /breaches/TRACKED/
 image: "https://tracked.sh/favicon.ico"

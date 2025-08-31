@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "North Korean Person leak"
+title: "North Korean Person Leak | Historical Data Breaches Archive"
 description: "In August 2024, approximately 9 GB of files exfiltrated from a North Korean threat actor's computer."
 permalink: /stealer-logs/NorthKorea/
 image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20221231%2Fourmid%2Fpngtree-north-korea-flag-fluttering-with-cloth-texture-png-image_6546218.png&f=1&nofb=1&ipt=c01a0fea6d7136f8319db15758f517970f3b95803467f8c820cc0ff85201b939"

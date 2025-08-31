@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "RestoreCord database leak"
+title: "RestoreCord Database Leak | Historical Data Breaches Archive"
 description: "On December 22nd, the Discord raid recovery bot RestoreCord suffered a major data breach that exposed around 800k customer records. The data was sold and traded on a site known as inf0sec by one of the owners."
 permalink: /breaches/RestoreCord/
 image: "https://files.catbox.moe/dgz5f6.ico"

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Dubsmash database leak"
+title: "Dubsmash Database Leak | Historical Data Breaches Archive"
 description: "In December 2018, the video messaging service Dubsmash suffered a data breach. The incident exposed 162 million unique email addresses alongside usernames and PBKDF2 password hashes."
 permalink: /breaches/Dubsmash/
 image: "https://logos.haveibeenpwned.com/Dubsmash.png"

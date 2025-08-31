@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "JobHound database leak"
+title: "JobHound Database Leak | Historical Data Breaches Archive"
 description: "On approximately October 14th, the staffing and recruiting website JobHound suffered a data breach that exposed around 20k customer records."
 permalink: /breaches/JobHound/
 image: "https://support.jobhound.mt/wp-content/themes/docly/assets/img/logo-2x.png"

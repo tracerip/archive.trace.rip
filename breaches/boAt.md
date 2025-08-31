@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "boAt database leak"
+title: "boAt Database Leak | Historical Data Breaches Archive"
 description: "In March 2024, the Indian audio and wearables brand boAt suffered a data breach that exposed 7.5M customer records. The data included physical and email address, names and phone numbers, all of which were subsequently published to a popular clear web hacking forum."
 permalink: /breaches/boAt/
 image: "https://logos.haveibeenpwned.com/boAt.png"

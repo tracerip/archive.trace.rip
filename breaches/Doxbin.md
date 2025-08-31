@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Doxbin database leak"
+title: "Doxbin Database Leak | Historical Data Breaches Archive"
 description: "In February 2025, the doxing website Doxbin was compromised by a group calling themselves TOoDA and the data dumped publicly. Included in the breach were 336k unique email addresses alongside usernames."
 permalink: /breaches/Doxbin/
 image: "https://logos.haveibeenpwned.com/Doxbin.png"

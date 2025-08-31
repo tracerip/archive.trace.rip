@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "DarkForums database leak"
+title: "DarkForums Database Leak | Historical Data Breaches Archive"
 description: "In August 2025, the DarkForums black hat hacker site suffered a data breach."
 permalink: /breaches/DarkForums/
 image: "https://darkforums.st/images/DFnew.png"

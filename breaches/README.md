@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Breaches Archive"
+title: "Historical Data Breaches Archive"
 description: "Welcome to the Historical Data Breaches Archive! This repository contains a comprehensive and ever-growing collection of data breaches throughout history. All the breaches stored here are publicly available and can be freely downloaded for research, analysis, or educational purposes."
 permalink: /breaches/
 image: "https://images.icon-icons.com/362/PNG/512/File-explorer_36762.png"

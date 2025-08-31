@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Tea database leak"
+title: "Tea Database Leak | Historical Data Breaches Archive"
 description: "In July 2025, the women-only dating safety platform Tea suffered a data breach that exposed around 🤷‍♀️ customer records."
 permalink: /breaches/Tea/
 image: "https://duckduckgo.com/i/62a84d514a91d06b.png"

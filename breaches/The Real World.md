@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Real World database leak"
+title: "The Real World Database Leak | Historical Data Breaches Archive"
 description: "In November 2024, the online course founded by Andrew Tate known as The Real World suffered a data breach that exposed almost 325k users of the platform."
 permalink: /breaches/TheRealWorld/
 image: "https://logos.haveibeenpwned.com/TheRealWorld.png"
