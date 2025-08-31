@@ -4,4 +4,3 @@ markdown: kramdown
 permalink: pretty
 plugins:
   - jekyll-sitemap
-  - jekyll-last-modified-at
