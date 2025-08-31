@@ -2,3 +2,5 @@ title: Historical Data Breaches Archive
 description: An archive of historical data breaches with details and sources.
 markdown: kramdown
 permalink: pretty
+plugins:
+  - jekyll-sitemap
