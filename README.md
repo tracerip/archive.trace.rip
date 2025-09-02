@@ -54,7 +54,7 @@ If you come across a new data breach, stealer logs, or notice outdated informati
 | Type     | Scope                | Description                                     | Example                                                        |
 | -------- | -------------------- | ----------------------------------------------- | -------------------------------------------------------------- |
 | **feat** | breach               | Upload or add new breach data                   | `feat(breach): add MegaData breach from July 2025`             |
-| **fix**  | link, description, data    | Correct existing breach details or download URLs | `fix(link): update download URL for SafeMail 2023 breach`      |
+| **fix**  | link, description, data, meta    | Correct existing breach details or download URLs | `fix(link): update download URL for SafeMail 2023 breach`      |
 
 ## 🔗 External Resources
 

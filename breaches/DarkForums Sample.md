@@ -3,6 +3,7 @@ layout: default
 title: "DarkForums Database Leak | Historical Data Breaches Archive"
 description: "In August 2025, the DarkForums black hat hacker site suffered a data breach."
 permalink: /breaches/DarkForums/
+favicon: "https://www.google.com/s2/favicons?sz=48&domain=darkforums.st"
 image: "https://darkforums.st/images/DFnew.png"
 ---
 
