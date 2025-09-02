@@ -43,7 +43,8 @@ You can freely download any data breach file using the links provided down below
 - [Tea](./Tea.md)
 - [The Real World](https://archive.trace.rip/breaches/TheRealWorld)
 - [Tools Markets](./tools-markets.md)
-- [Tracked](./Tracked.md)
+- [TRACKED](./Tracked.md)
+- [Traderie](./Traderie.md)
 - [Twitter](./Twitter.md)
 - [Vakinha](./Vakinha.md)
 
