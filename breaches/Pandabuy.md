@@ -4,6 +4,7 @@ title: "Pandabuy Database Leak | Historical Data Breaches Archive"
 description: "In March 2024, 1.3M unique email addresses from the online store for purchasing goods from China, Pandabuy, were posted to a popular hacking forum."
 permalink: /breaches/Pandabuy/
 image: "https://logos.haveibeenpwned.com/Pandabuy.png"
+favicon: "https://www.google.com/s2/favicons?sz=48&domain=pandabuy.com"
 ---
 
 # 🐼 Pandabuy database leak

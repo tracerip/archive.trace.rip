@@ -4,6 +4,7 @@ title: "CommuteAir Database Leak | Historical Data Breaches Archive"
 description: "In January of 2023, CommuteAir suffered a breach that exposed the US Department of Homeland Security’s No Fly and Selective Screening lists containing over 1.5 million records, along with CommuteAir employee information."
 permalink: /breaches/CommuteAir/
 image: "https://i.imgur.com/vD1jemx.png"
+favicon: "https://www.google.com/s2/favicons?sz=48&domain=flycommutair.com"
 ---
 
 # ✈️ CommuteAir database leak

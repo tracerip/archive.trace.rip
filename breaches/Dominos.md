@@ -4,6 +4,7 @@ title: "Dominos Database Leak | Historical Data Breaches Archive"
 description: "In June 2014, Domino's Pizza in France and Belgium was hacked by a group going by the name Rex Mundi and their customer data held to ransom."
 permalink: /breaches/Dominos/
 image: "https://logos.haveibeenpwned.com/Dominos.png"
+favicon: "https://www.google.com/s2/favicons?sz=48&domain=dominos.com"
 ---
 
 # 🍕 Domino's database leak

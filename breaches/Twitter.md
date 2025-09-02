@@ -4,6 +4,7 @@ title: "Twitter Database Leak | Historical Data Breaches Archive"
 description: "On approximately January 2021, the microblogging and social website Twitter suffered a data breach that exposed around 210m customer records."
 permalink: /breaches/Twitter/
 image: "https://i.imgur.com/yKbRdRt.png"
+favicon: "https://www.google.com/s2/favicons?sz=48&domain=twitter.com"
 ---
 
 # 🐦 Twitter database leak

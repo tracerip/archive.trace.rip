@@ -4,6 +4,7 @@ title: "Tea Database Leak | Historical Data Breaches Archive"
 description: "In July 2025, the women-only dating safety platform Tea suffered a data breach that exposed around 🤷‍♀️ customer records."
 permalink: /breaches/Tea/
 image: "https://duckduckgo.com/i/62a84d514a91d06b.png"
+favicon: "https://www.google.com/s2/favicons?sz=48&domain=teaforwomen.com"
 ---
 
 # 🍵 Tea database leak

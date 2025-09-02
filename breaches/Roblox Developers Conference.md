@@ -4,6 +4,7 @@ title: "Roblox Developers Conference Database Leak | Historical Data Breaches Ar
 description: "In July 2023, a list of alleged attendees from the 2017-2020 Roblox Developers Conferences was circulated on a forum. The data contained 4k unique email addresses along with names, usernames, dates of birth, phone numbers, physical and IP addresses and T-shirt sizes."
 permalink: /breaches/RDC/
 image: "https://logos.haveibeenpwned.com/Roblox.png"
+favicon: "https://www.google.com/s2/favicons?sz=48&domain=roblox.com"
 ---
 
 # 🟥 Roblox Developers Conference database leak
