@@ -23,7 +23,6 @@ You can freely download any data breach file using the links provided down below
 - [BreachForums.vc](./BreachForums.vc.md)
 - [CommuteAir](./CommuteAir.md)
 - [CraftRise](./CraftRise.md)
-- [DarkForums Sample](./DarkForums.md)
 - [devkitPro](./devkitPro.md)
 - [Dominos](./Dominos.md)
 - [Doxbin 2022](./Doxbin-2022.md)
