@@ -13,7 +13,7 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=traderie.com"
 
 ## Description
 
-In September 2022, <a href="https://techcrunch.com/2023/09/07/traderie-a-marketplace-for-in-game-items-alerts-users-to-data-breach/" target="_blank" rel="noopener">the in-game trading marketplace Traderie suffered a data breach that exposed almost 400k records</a> (this preceded a subsequent breach the following year). The incident exposed email and IP addresses, usernames and links to social media profiles.
+In September 2022, <a href="https://redirect.trace.rip/?url=https://techcrunch.com/2023/09/07/traderie-a-marketplace-for-in-game-items-alerts-users-to-data-breach/" target="_blank" rel="noopener">the in-game trading marketplace Traderie suffered a data breach that exposed almost 400k records</a> (this preceded a subsequent breach the following year). The incident exposed email and IP addresses, usernames and links to social media profiles.
 
 ## Breached data
 
@@ -21,4 +21,4 @@ Email addresses, IP addresses, Social media profiles, Usernames
 
 ## Download link
 
-[Traderie Database Download Link](https://buzzheavier.com/leveedge6ofn)
+[Traderie Database Download Link](https://redirect.trace.rip/?url=https://buzzheavier.com/leveedge6ofn)

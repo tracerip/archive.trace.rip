@@ -13,7 +13,7 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=kcna.kp"
 
 ## Description
 
-In August 2024, approximately 9 GB of files <a href="https://techcrunch.com/2025/08/12/hackers-breach-and-expose-a-major-north-korean-spying-operation/">exfiltrated from a North Korean threat actor's</a> computer.
+In August 2024, approximately 9 GB of files <a href="https://redirect.trace.rip/?url=https://techcrunch.com/2025/08/12/hackers-breach-and-expose-a-major-north-korean-spying-operation/">exfiltrated from a North Korean threat actor's</a> computer.
 
 ## Breached data
 
@@ -21,4 +21,4 @@ everything on there pc 🤷
 
 ## Download link
 
-[North Korean Person leak Download Link](https://bin.0xfc.de/?d33afcd9a9ae86ce#6EL5CGmcW8AC52d3B8SsK2K6aAcyzSqnFynxwc8FgREJ)
+[North Korean Person leak Download Link](https://redirect.trace.rip/?url=https://bin.0xfc.de/?d33afcd9a9ae86ce#6EL5CGmcW8AC52d3B8SsK2K6aAcyzSqnFynxwc8FgREJ)

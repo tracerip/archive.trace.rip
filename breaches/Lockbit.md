@@ -12,7 +12,7 @@ image: "https://www.vanroey.be/wp-content/uploads/LockBit-logo.png"
 
 ## Description
 
-The LockBit ransomware gang has <a href="https://the420.in/lockbit-ransomware-breach-exposes-affiliate-data-negotiations/" target="_blank" rel="noopener">suffered a serious data breach, exposing internal operations, affiliate builds, negotiation chats, and even administrator credentials</a>. The breach comes just months after law enforcement’s Operation Cronos attempted to dismantle LockBit’s infrastructure.
+The LockBit ransomware gang has <a href="https://redirect.trace.rip/?url=https://the420.in/lockbit-ransomware-breach-exposes-affiliate-data-negotiations/" target="_blank" rel="noopener">suffered a serious data breach, exposing internal operations, affiliate builds, negotiation chats, and even administrator credentials</a>. The breach comes just months after law enforcement’s Operation Cronos attempted to dismantle LockBit’s infrastructure.
 
 ## Breached data
 
@@ -20,4 +20,4 @@ Cryptocurrency Information, Passwords, Usernames
 
 ## Download link
 
-[LockBit Database Download Link](https://mega.nz/file/QdY1RChY#thSnDNNXDHspBSwzAfVeNqGq2knWAjkDaRsOLSLXp2g)
+[LockBit Database Download Link](https://redirect.trace.rip/?url=https://mega.nz/file/QdY1RChY#thSnDNNXDHspBSwzAfVeNqGq2knWAjkDaRsOLSLXp2g)

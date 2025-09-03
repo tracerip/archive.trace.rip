@@ -13,7 +13,7 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=tools-markets.ru"
 
 ## Description
 
-In August 2024, the russian market website <a href="https://darkwebinformer.com/anonmoose-allegedly-leaked-toolsmarkets-database/" target="_blank" rel="noopener">tools-markets suffered a major data breach</a> that exposed around 2k customer records.
+In August 2024, the russian market website <a href="https://redirect.trace.rip/?url=https://darkwebinformer.com/anonmoose-allegedly-leaked-toolsmarkets-database/" target="_blank" rel="noopener">tools-markets suffered a major data breach</a> that exposed around 2k customer records.
 
 ## Breached data
 
@@ -21,4 +21,4 @@ Customer ID, Store ID, Full Name, Email Address, Order ID, Telephone, Store URL,
 
 ## Download link
 
-[tools-markets Database Download Link](https://buzzheavier.com/cuk7jj9y3iya)
+[tools-markets Database Download Link](https://redirect.trace.rip/?url=https://buzzheavier.com/cuk7jj9y3iya)

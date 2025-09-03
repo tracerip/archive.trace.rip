@@ -21,4 +21,4 @@ Account IDs, Access Tokens, Passwords, Email Addresses, User Searches, User Quer
 
 ## Download link
 
-[TRACKED Database Download Link](https://buzzheavier.com/cn1ld7eq4zl1)
+[TRACKED Database Download Link](https://redirect.trace.rip/?url=https://buzzheavier.com/cn1ld7eq4zl1)

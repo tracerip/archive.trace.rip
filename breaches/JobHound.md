@@ -13,7 +13,7 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=jobhound.mt"
 
 ## Description
 
-On approximately October 14th, the staffing and recruiting website <a href="https://darkwebinformer.com/888-has-allegedly-leaked-the-jobhound-database/" target="_blank" rel="noopener">JobHound suffered a data breach</a> that exposed around 20k customer records.
+On approximately October 14th, the staffing and recruiting website <a href="https://redirect.trace.rip/?url=https://darkwebinformer.com/888-has-allegedly-leaked-the-jobhound-database/" target="_blank" rel="noopener">JobHound suffered a data breach</a> that exposed around 20k customer records.
 
 ## Breached data
 
@@ -21,4 +21,4 @@ Email Address, First Name, Last Name, Registered, Gender, Languages, Birthday, L
 
 ## Download link
 
-[JobHound Database Download Link](https://buzzheavier.com/zfhb4p64woq4)
+[JobHound Database Download Link](https://redirect.trace.rip/?url=https://buzzheavier.com/zfhb4p64woq4)

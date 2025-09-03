@@ -51,14 +51,14 @@ You can freely download any data breach file using the links provided down below
 
 ## 🔧 Contributions & Issues
 
-If you come across a new data breach, stealer logs, or notice outdated information, feel free to contribute. You can submit a pull request or open an issue for review at [our GitHub](https://github.com/YoureIronic/Historical-Data-Breaches-Archive).
+If you come across a new data breach, stealer logs, or notice outdated information, feel free to contribute. You can submit a pull request or open an issue for review at [our GitHub](https://redirect.trace.rip/?url=https://github.com/YoureIronic/Historical-Data-Breaches-Archive).
 
 ## 🔗 External Resources
 
 If you're interested in learning more about data breaches or cybersecurity:
-- [Have I Been Pwned](https://haveibeenpwned.com)
-- [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)
-- [freemediaheckyeah](https://fmhy.net)
+- [Have I Been Pwned](https://redirect.trace.rip/?url=https://haveibeenpwned.com)
+- [Hudson Rock](https://redirect.trace.rip/?url=https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)
+- [freemediaheckyeah](https://redirect.trace.rip/?url=https://fmhy.net)
 
 ## 🤷‍♀️ Misc
 

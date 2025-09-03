@@ -13,7 +13,7 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=ppcgeeks.com"
 
 ## Description
 
-In August 2016, the pocket PC fan site forum <a href="https://web.archive.org/web/20210227221024/https://forum.ppcgeeks.com/site-news-announcements/153465-urgent-ppcgeeks-hacked-database-dumped.html" target="_blank" rel="noopener">PPCGeeks suffered a data breach that exposed over 490k records</a>. The breach of the vBulletin forum exposed email and IP addresses, usernames, dates of birth and passwords stored as salted MD5 hashes.
+In August 2016, the pocket PC fan site forum <a href="https://redirect.trace.rip/?url=https://web.archive.org/web/20210227221024/https://forum.ppcgeeks.com/site-news-announcements/153465-urgent-ppcgeeks-hacked-database-dumped.html" target="_blank" rel="noopener">PPCGeeks suffered a data breach that exposed over 490k records</a>. The breach of the vBulletin forum exposed email and IP addresses, usernames, dates of birth and passwords stored as salted MD5 hashes.
 
 ## Breached data
 
@@ -21,4 +21,4 @@ Birthdates, Email Addresses IP Addresses, Passwords, Usernames
 
 ## Download link
 
-[PPCGeeks Database Download Link](https://buzzheavier.com/s9k47ej5wh8y)
+[PPCGeeks Database Download Link](https://redirect.trace.rip/?url=https://buzzheavier.com/s9k47ej5wh8y)

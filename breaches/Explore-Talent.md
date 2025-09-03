@@ -13,7 +13,7 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=exploretalent.com"
 
 ## Description
 
-In July 2024, <a href="https://x.com/H4ckManac/status/1813528139881988225">a data breach attributed to Explore Talent was publicly posted to a popular hacking forum</a>. Containing 5.7M rows with 5.4M unique email addresses, the incident has been described by various sources as occurring between early 2022 to 2023 and also contains names, phone numbers and physical addresses.
+In July 2024, <a href="https://redirect.trace.rip/?url=https://x.com/H4ckManac/status/1813528139881988225">a data breach attributed to Explore Talent was publicly posted to a popular hacking forum</a>. Containing 5.7M rows with 5.4M unique email addresses, the incident has been described by various sources as occurring between early 2022 to 2023 and also contains names, phone numbers and physical addresses.
 
 ## Breached data
 
@@ -21,4 +21,4 @@ Email addresses, Names, Phone numbers, Physical addresses
 
 ## Download link
 
-[Explore Talent Database Download Link](https://buzzheavier.com/18u0dpmzrbxk)
+[Explore Talent Database Download Link](https://redirect.trace.rip/?url=https://buzzheavier.com/18u0dpmzrbxk)

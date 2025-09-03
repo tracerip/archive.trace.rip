@@ -12,7 +12,7 @@ image: "https://logos.haveibeenpwned.com/Dubsmash.png"
 
 ## Description
 
-In December 2018, the video messaging service <a href="https://www.theregister.co.uk/2019/02/11/620_million_hacked_accounts_dark_web/">Dubsmash suffered a data breach</a>. The incident exposed 162 million unique email addresses alongside usernames and PBKDF2 password hashes. In 2019, the data appeared listed for sale on a dark web marketplace (along with several other large breaches) and subsequently began circulating more broadly.
+In December 2018, the video messaging service <a href="https://redirect.trace.rip/?url=https://www.theregister.co.uk/2019/02/11/620_million_hacked_accounts_dark_web/">Dubsmash suffered a data breach</a>. The incident exposed 162 million unique email addresses alongside usernames and PBKDF2 password hashes. In 2019, the data appeared listed for sale on a dark web marketplace (along with several other large breaches) and subsequently began circulating more broadly.
 
 ## Breached data
 
@@ -20,4 +20,4 @@ Email addresses, Geographic locations, Names, Passwords, Phone numbers, Spoken l
 
 ## Download link
 
-[Dubsmash Database Download Link](https://buzzheavier.com/rtspmggi7s01)
+[Dubsmash Database Download Link](https://redirect.trace.rip/?url=https://buzzheavier.com/rtspmggi7s01)

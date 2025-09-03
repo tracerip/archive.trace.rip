@@ -13,7 +13,7 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=poshmark.com"
 
 ## Description
 
-In mid-2018, social commerce marketplace <a href="https://techcrunch.com/2019/08/01/poshmark-confirms-data-breach/">Poshmark suffered a data breach</a> that exposed 36M user accounts. The compromised data included email addresses, names, usernames, genders, locations and passwords stored as bcrypt hashes.
+In mid-2018, social commerce marketplace <a href="https://redirect.trace.rip/?url=https://techcrunch.com/2019/08/01/poshmark-confirms-data-breach/">Poshmark suffered a data breach</a> that exposed 36M user accounts. The compromised data included email addresses, names, usernames, genders, locations and passwords stored as bcrypt hashes.
 
 ## Breached data
 
@@ -21,4 +21,4 @@ Email addresses, Genders, Geographic locations, Names, Passwords, Usernames
 
 ## Download link
 
-[Poshmark Database Download Link](https://buzzheavier.com/sp3uks2b67su)
+[Poshmark Database Download Link](https://redirect.trace.rip/?url=https://buzzheavier.com/sp3uks2b67su)

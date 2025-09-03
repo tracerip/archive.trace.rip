@@ -13,7 +13,7 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=foodora.com"
 
 ## Description
 
-In April 2016, the online food delivery service <a href="https://www.databreachtoday.com/delivery-hero-confirms-foodora-data-breach-a-14435" target="_blank" rel="noopener">Foodora suffered a major data breach</a> which was then extensively redistributed online. The data breach exposed around 582k customer records.
+In April 2016, the online food delivery service <a href="https://redirect.trace.rip/?url=https://www.databreachtoday.com/delivery-hero-confirms-foodora-data-breach-a-14435" target="_blank" rel="noopener">Foodora suffered a major data breach</a> which was then extensively redistributed online. The data breach exposed around 582k customer records.
 
 ## Breached data
 
@@ -21,4 +21,4 @@ Email addresses, Names, Passwords, Phone numbers, Physical addresses,
 
 ## Download link
 
-[Foodora Database Download Link](https://buzzheavier.com/fe8e571wee0g)
+[Foodora Database Download Link](https://redirect.trace.rip/?url=https://buzzheavier.com/fe8e571wee0g)

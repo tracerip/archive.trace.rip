@@ -13,7 +13,7 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=roblox.com"
 
 ## Description
 
-In July 2016, the online gaming website <a href="https://roblox.fandom.com/wiki/2016_Roblox_security_breach" target="_blank" rel="noopener">Roblox suffered a major data breach</a> that exposed around 50k customer records.
+In July 2016, the online gaming website <a href="https://redirect.trace.rip/?url=https://roblox.fandom.com/wiki/2016_Roblox_security_breach" target="_blank" rel="noopener">Roblox suffered a major data breach</a> that exposed around 50k customer records.
 
 ## Breached data
 
@@ -21,4 +21,4 @@ Account Balance, IP Address, Username, Email Address, Purchases
 
 ## Download link
 
-[Roblox Database Download Link](https://buzzheavier.com/rt2bh8lhbits)
+[Roblox Database Download Link](https://redirect.trace.rip/?url=https://buzzheavier.com/rt2bh8lhbits)
