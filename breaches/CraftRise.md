@@ -13,11 +13,11 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=craftrise.com.tr"
 
 ## Description
 
-In May 2023, the Turkish Minecraft server <a href="https://haveibeenpwned.com/Breach/CraftRise" target="_blank" rel="noopener">CraftRise suffered a data breach</a> that exposed around 2.5m customer records.
+The CraftRise Turkish Minecraft server was compromised in May 2023, according to news reports. Email addresses, usernames, locations, and plain text passwords were among the information from over 2.5M people that was later posted on a well-known hacking forum. The data was acquired in March 2022, according to the most recent records.
 
 ## Breached data
 
-Email Address, Geographic Location, Password, Username
+Email Addresses, Geographic Locations, Passwords, Usernames
 
 ## Download link
 

@@ -12,11 +12,11 @@ image: "https://www.vanroey.be/wp-content/uploads/LockBit-logo.png"
 
 ## Description
 
-In April 2025, the ransomeware group <a href="https://www.paubox.com/blog/lockbit-ransomware-group-hacked" target="_blank" rel="noopener">LockBit suffered a data breach</a> that exposed around 60k customer records.
+The LockBit ransomware gang has <a href="https://the420.in/lockbit-ransomware-breach-exposes-affiliate-data-negotiations/" target="_blank" rel="noopener">suffered a serious data breach, exposing internal operations, affiliate builds, negotiation chats, and even administrator credentials</a>. The breach comes just months after law enforcement’s Operation Cronos attempted to dismantle LockBit’s infrastructure.
 
 ## Breached data
 
-Bitcoin Address, Email Address, Company Name, Employee Name, Job Title, Financial Information, Negotiation Messages
+Cryptocurrency Information, Passwords, Usernames
 
 ## Download link
 

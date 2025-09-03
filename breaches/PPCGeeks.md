@@ -13,11 +13,11 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=ppcgeeks.com"
 
 ## Description
 
-In August 2016, the pocket PC fan site forum <a href="https://haveibeenpwned.com/Breach/PPCGeeks" target="_blank" rel="noopener">PPCGeeks suffered a data breach</a> that exposed around 490k customer records.
+In August 2016, the pocket PC fan site forum <a href="https://web.archive.org/web/20210227221024/https://forum.ppcgeeks.com/site-news-announcements/153465-urgent-ppcgeeks-hacked-database-dumped.html" target="_blank" rel="noopener">PPCGeeks suffered a data breach that exposed over 490k records</a>. The breach of the vBulletin forum exposed email and IP addresses, usernames, dates of birth and passwords stored as salted MD5 hashes.
 
 ## Breached data
 
-DOB, IP Address, Password, Username, Email Address
+Birthdates, Email Addresses IP Addresses, Passwords, Usernames 
 
 ## Download link
 
