@@ -8,3 +8,4 @@ url: "https://archive.trace.rip"
 
 plugins:
   - jekyll-sitemap
+  - jekyll-last-modified-at
