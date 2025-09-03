@@ -18,6 +18,7 @@ You can freely download any data breach file using the links provided down below
 ## 📂 List of Breaches
 
 - [Bestialitysextaboo](./Bestialitysextaboo.md)
+- [BitView](./BitView.md)
 - [boAt](./boAt.md)
 - [BreachForums](./BreachForums.md)
 - [BreachForums.vc](./BreachForums.vc.md)
