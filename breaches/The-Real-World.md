@@ -20,4 +20,4 @@ Chat logs, Email addresses, Usernames
 
 ## Download link
 
-[The Real World Database Download Link](https://redirect.trace.rip/?url=https://bin.0xfc.de/?26a84fa8229b1d63#GJSPowD2oC1xZNQTwVVWeCfPE5UnGazjjRJvooyxWKjm)
+[The Real World Database Download Link](https://redirect.trace.rip/?url=https://pastes.fmhy.net/AKHcxn)

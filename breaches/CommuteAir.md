@@ -21,4 +21,4 @@ Names, Date of Birth
 
 ## Download link
 
-[TSA No Fly List Download Link](https://redirect.trace.rip/?url=https://bin.0xfc.de/?192102f4f27d09bb#6iXf11M6mYuLDV1xBLRBfEmKCpfuwNegSnCvNRSmgkVy)
+[TSA No Fly List Download Link](https://redirect.trace.rip/?url=https://pastes.fmhy.net/Vdlagc)

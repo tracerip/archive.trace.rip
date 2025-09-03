@@ -21,4 +21,4 @@ everything on there pc 🤷
 
 ## Download link
 
-[North Korean Person leak Download Link](https://redirect.trace.rip/?url=https://bin.0xfc.de/?d33afcd9a9ae86ce#6EL5CGmcW8AC52d3B8SsK2K6aAcyzSqnFynxwc8FgREJ)
+[North Korean Person leak Download Link](https://redirect.trace.rip/?url=https://pastes.fmhy.net/94D00h)

@@ -21,4 +21,4 @@ Email addresses, Names, Phone numbers, Physical addresses
 
 ## Download link
 
-[boAt Database Download Link](https://redirect.trace.rip/?url=https://bin.0xfc.de/?e3ee68cd78f84cdb#HgtetzRkxVuxz6XxNRWU5UkLfynDNyQ4dkdUwePTircn)
+[boAt Database Download Link](https://redirect.trace.rip/?url=https://pastes.fmhy.net/CiIRLX)
