@@ -13,7 +13,7 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=boat-lifestyle.com"
 
 ## Description
 
-In March 2024, the Indian audio and wearables brand <a href="https://redirect.trace.rip/?url=https://www.forbesindia.com/article/news/hit-with-massive-data-breach-boat-loses-data-of-75-million-customers/92483/1" target="_blank" rel="noopener">boAt suffered a data breach that exposed 7.5M customer records</a>. The data included physical and email address, names and phone numbers, all of which were subsequently published to a popular clear web hacking forum.
+In March 2024, the Indian audio and wearables brand <a href="https://redirect.trace.rip/?url=https://www.forbesindia.com/article/news/hit-with-massive-data-breach-boat-loses-data-of-75-million-customers/92483/1" target="_blank" rel="noopener noreferrer">boAt suffered a data breach that exposed 7.5M customer records</a>. The data included physical and email address, names and phone numbers, all of which were subsequently published to a popular clear web hacking forum.
 
 ## Breached data
 

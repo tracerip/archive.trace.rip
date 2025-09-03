@@ -13,7 +13,7 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=roblox.com"
 
 ## Description
 
-In July 2023, <a href="https://redirect.trace.rip/?url=https://twitter.com/troyhunt/status/1681163196110098432">a list of alleged attendees from the 2017-2020 Roblox Developers Conferences was circulated on a forum</a>. The data contained 4k unique email addresses along with names, usernames, dates of birth, phone numbers, physical and IP addresses and T-shirt sizes.
+In July 2023, <a href="https://redirect.trace.rip/?url=https://twitter.com/troyhunt/status/1681163196110098432" target="_blank" rel="noopener noreferrer">a list of alleged attendees from the 2017-2020 Roblox Developers Conferences was circulated on a forum</a>. The data contained 4k unique email addresses along with names, usernames, dates of birth, phone numbers, physical and IP addresses and T-shirt sizes.
 
 ## Breached data
 
