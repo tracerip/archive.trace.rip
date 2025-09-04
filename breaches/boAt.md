@@ -9,7 +9,7 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=boat-lifestyle.com"
 
 # 🔉 boAt database leak
 
-<img src="https://logos.haveibeenpwned.com/boAt.png" alt="boAt Logo" width="200" height="80">
+![boAt Logo](https://logos.haveibeenpwned.com/boAt.png)
 
 ## Description
 
