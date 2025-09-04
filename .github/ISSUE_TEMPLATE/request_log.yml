@@ -1,0 +1,45 @@
+name: "Request a New Stealer Log"
+description: "Suggest a new stealer log (e.g., from malware, credential dump, or leak forum) to be added to the archive."
+title: "[Stealer Log Request] <Log Source / Platform>"
+labels: ["stealer log request"]
+body:
+  - type: input
+    id: log_source
+    attributes:
+      label: "Source / Platform"
+      description: "What is the name of the platform, forum, or malware campaign where the log was leaked? (e.g., Discord, Pastebin, Telegram group, Dark Web forum)"
+      placeholder: "Example: Discord User Leak"
+    validations:
+      required: true
+  - type: input
+    id: log_date
+    attributes:
+      label: "Date of Leak (if known)"
+      description: "When was the log posted or shared? (Month/Year or Year)"
+      placeholder: "March 2024"
+    validations:
+      required: false
+  - type: textarea
+    id: log_description
+    attributes:
+      label: "Description"
+      description: "Briefly describe the nature of the log, what kind of data was stolen (e.g., tokens, credentials, cookies), and any notable details."
+      placeholder: "This log contains over 100,000 Discord user and associated user emails."
+    validations:
+      required: false
+  - type: input
+    id: source_link
+    attributes:
+      label: "Source / Reference Link"
+      description: "Provide a direct link to the post, paste, or forum thread where the log was published. Must be publicly accessible."
+      placeholder: "https://thisplacehasbeenstolenfr.om/discord-leak"
+    validations:
+      required: true
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: "Additional Information (optional)"
+      description: "Include any extra context: file size, number of entries, download links, associated malware, or related incidents."
+      placeholder: "File size: 28 MB | Total entries: 17,420 | Associated with: Goober Stealer v2.3"
+    validations:
+      required: false
