@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.4"
@@ -8,6 +10,6 @@ gem "jekyll-last-modified-at", "~> 0.7"
 gem "kramdown", "~> 2.4"
 
 group :jekyll_plugins do
-  gem "jekyll-sitemap"
-  gem "jekyll-last-modified-at"
+  gem "jekyll-sitemap", "~> 1.4"
+  gem "jekyll-last-modified-at", "~> 0.7"
 end
