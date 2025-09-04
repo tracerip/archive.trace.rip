@@ -8,7 +8,7 @@ image: "https://logos.haveibeenpwned.com/devkitPro.png"
 
 # 🧑‍💻 devkitPro database leak
 
-<img src="https://logos.haveibeenpwned.com/devkitPro.png" alt="devkitPro Logo">
+![devkitPro Logo](https://logos.haveibeenpwned.com/devkitPro.png)
 
 ## Description
 
