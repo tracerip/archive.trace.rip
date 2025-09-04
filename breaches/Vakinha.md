@@ -13,7 +13,7 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=vakinha.com.br"
 
 ## Description
 
-In June 2020, the Brazilian fund raising service <a href="https://redirect.trace.rip/?url=https://www.bleepingcomputer.com/news/security/hacker-leaks-386-million-user-records-from-18-companies-for-free/" target="_blank" rel="noopener noreferrer">Vakinha suffered a data breach</a> which impacted almost 4.8 million members. The exposed data included email addresses, names, phone numbers, geographic locations and passwords stored as bcrypt hashes, all of which was subsequently shared extensively throughout online hacking communities.
+In June 2020, the Brazilian fund raising service <a href="https://redirect.trace.rip/?url=https://www.bleepingcomputer.com/news/security/hacker-leaks-386-million-user-records-from-18-companies-for-free/" target="_blank" rel="noopener">Vakinha suffered a data breach</a> which impacted almost 4.8 million members. The exposed data included email addresses, names, phone numbers, geographic locations and passwords stored as bcrypt hashes, all of which was subsequently shared extensively throughout online hacking communities.
 
 ## Breached data
 

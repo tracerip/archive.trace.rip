@@ -13,7 +13,7 @@ image: "https://logos.haveibeenpwned.com/Bestialitysextaboo.png"
 
 ## Description
 
-In March 2018, the animal bestiality website known as <a href="https://redirect.trace.rip/?url=https://www.vice.com/en/article/bestiality-website-hacked-troy-hunt-have-i-been-pwned" target="_blank" rel="noopener noreferrer">Bestialitysextaboo was hacked</a>. A collection of various sites running on the same service were also compromised and details of the hack (including links to the data) were posted on a popular forum. In all, more than 3.2k unique email addresses were included alongside usernames, IP addresses, dates of birth, genders and bcrypt hashes of passwords.
+In March 2018, the animal bestiality website known as <a href="https://redirect.trace.rip/?url=https://www.vice.com/en/article/bestiality-website-hacked-troy-hunt-have-i-been-pwned" target="_blank" rel="noopener">Bestialitysextaboo was hacked</a>. A collection of various sites running on the same service were also compromised and details of the hack (including links to the data) were posted on a popular forum. In all, more than 3.2k unique email addresses were included alongside usernames, IP addresses, dates of birth, genders and bcrypt hashes of passwords.
 
 ## Breached data
 

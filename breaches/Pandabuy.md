@@ -13,7 +13,7 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=pandabuy.com"
 
 ## Description
 
-In March 2024, <a href="https://redirect.trace.rip/?url=https://twitter.com/troyhunt/status/1774704266500043067" target="_blank" rel="noopener noreferrer">1.3M unique email addresses from the online store for purchasing goods from China, Pandabuy, were posted to a popular hacking forum</a>. The data also included IP and physical addresses, names, phone numbers and order enquiries. The breach was alleged to be attributed to "Sanggiero" and "IntelBroker".
+In March 2024, <a href="https://redirect.trace.rip/?url=https://twitter.com/troyhunt/status/1774704266500043067" target="_blank" rel="noopener">1.3M unique email addresses from the online store for purchasing goods from China, Pandabuy, were posted to a popular hacking forum</a>. The data also included IP and physical addresses, names, phone numbers and order enquiries. The breach was alleged to be attributed to "Sanggiero" and "IntelBroker".
 
 ## Breached data
 

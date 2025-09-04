@@ -13,7 +13,7 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=dominos.com"
 
 ## Description
 
-In June 2014, <a href="https://redirect.trace.rip/?url=http://www.welivesecurity.com/2014/06/16/dominos-pizza-hacked/" target="_blank" rel="noopener noreferrer">Domino's Pizza in France and Belgium was hacked</a> by a group going by the name "Rex Mundi" and their customer data held to ransom. Domino's refused to pay the ransom and six months later, the attackers <a href="https://redirect.trace.rip/?url=http://cyberintelligence.in/rex-mundi-hackers-leaked-data-dominos-accord-easypay/" target="_blank" rel="noopener noreferrer">released the data</a> along with troves of other hacked accounts. Amongst the customer data was passwords stored with a weak MD5 hashing algorithm and no salt.
+In June 2014, <a href="https://redirect.trace.rip/?url=http://www.welivesecurity.com/2014/06/16/dominos-pizza-hacked/" target="_blank" rel="noopener">Domino's Pizza in France and Belgium was hacked</a> by a group going by the name "Rex Mundi" and their customer data held to ransom. Domino's refused to pay the ransom and six months later, the attackers <a href="https://redirect.trace.rip/?url=http://cyberintelligence.in/rex-mundi-hackers-leaked-data-dominos-accord-easypay/" target="_blank" rel="noopener">released the data</a> along with troves of other hacked accounts. Amongst the customer data was passwords stored with a weak MD5 hashing algorithm and no salt.
 
 ## Breached data
 

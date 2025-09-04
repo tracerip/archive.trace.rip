@@ -12,7 +12,7 @@ image: "https://upload.wikimedia.org/wikipedia/en/8/85/BreachForums_logo.png"
 
 ## Description
 
-In November 2022, the well-known hacking forum "BreachForums" was itself, breached. Later the following year, <a href="https://redirect.trace.rip/?url=https://www.bleepingcomputer.com/news/security/fbi-seizes-breachforums-after-arresting-its-owner-pompompurin-in-march/" target="_blank" rel="noopener noreferrer">the operator of the website was arrested and the site seized by law enforcement agencies</a>. The breach exposed 212k records including usernames, IP and email addresses, private messages between site members and passwords stored as argon2 hashes.
+In November 2022, the well-known hacking forum "BreachForums" was itself, breached. Later the following year, <a href="https://redirect.trace.rip/?url=https://www.bleepingcomputer.com/news/security/fbi-seizes-breachforums-after-arresting-its-owner-pompompurin-in-march/" target="_blank" rel="noopener">the operator of the website was arrested and the site seized by law enforcement agencies</a>. The breach exposed 212k records including usernames, IP and email addresses, private messages between site members and passwords stored as argon2 hashes.
 
 ## Breached data
 
