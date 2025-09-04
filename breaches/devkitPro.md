@@ -12,7 +12,7 @@ image: "https://logos.haveibeenpwned.com/devkitPro.png"
 
 ## Description
 
-In February 2019, <a href="https://redirect.trace.rip/?url=http://www.welivesecurity.com/2014/06/16/dominos-pizza-hacked/" target="_blank" rel="noopener noreferrer">the devkitPro forum suffered a data breach</a>. The phpBB based forum had 1,508 unique email addresses exposed in the breach alongside forum posts, private messages and passwords stored as weak salted hashes.
+In February 2019, <a href="https://redirect.trace.rip/?url=http://www.welivesecurity.com/2014/06/16/dominos-pizza-hacked/" target="_blank" rel="noopener">the devkitPro forum suffered a data breach</a>. The phpBB based forum had 1,508 unique email addresses exposed in the breach alongside forum posts, private messages and passwords stored as weak salted hashes.
 
 ## Breached data
 
