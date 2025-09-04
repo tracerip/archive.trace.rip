@@ -2,7 +2,7 @@
 layout: default
 title: "BreachForums.vc Database Leak | Historical Data Breaches Archive"
 description: "In June 2023, a clone of the previously shuttered popular hacking forum BreachForums suffered a data breach that exposed over 4k records."
-permalink: /breaches/BreachForumsVC/
+permalink: /breaches/BreachForums.vc/
 image: "https://upload.wikimedia.org/wikipedia/en/8/85/BreachForums_logo.png"
 ---
 
