@@ -17,10 +17,10 @@ You can freely download any data breach file using the links provided down below
 
 ## 📂 List of Breaches
 
-- [Bestialitysextaboo](./Bestialitysextaboo.md)
-- [BitView](./BitView.md)
+- [Bestialitysextaboo](./Bestialitysextaboo)
+- [BitView](./BitView)
 - [boAt](./boAt.md)
-- [BreachForums](./BreachForums.md)
+- [BreachForums](./BreachForums)
 - [BreachForums.vc](./BreachForums.vc.md)
 - [CommuteAir](./CommuteAir.md)
 - [CraftRise](./CraftRise.md)
