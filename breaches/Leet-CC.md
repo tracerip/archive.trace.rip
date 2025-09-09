@@ -3,6 +3,7 @@ layout: default
 title: "Leet Database Leak | Historical Data Breaches Archive"
 description: "In August 2016, the service for creating and running Pocket Minecraft edition servers known as Leet was reported as having suffered a data breach that impacted 6 million subscribers."
 permalink: /breaches/Leet-CC/
+favicon: "https://web.archive.org/web/20151030053607im_/http://leet.cc/media/favicon.ico"
 image: "https://logos.haveibeenpwned.com/Leet.png"
 ---
 
