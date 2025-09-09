@@ -33,6 +33,7 @@ You can freely download any data breach file using the links provided down below
 - [Foodora](./Foodora)
 - [Guns.com](./Guns.com)
 - [JobHound](./JobHound)
+- [Leet](./Leet-CC)
 - [Lockbit](./Lockbit)
 - [Pandabuy](./Pandabuy)
 - [Poshmark](./Poshmark)
