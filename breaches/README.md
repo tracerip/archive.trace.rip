@@ -28,7 +28,7 @@ You can freely download any data breach file using the links provided down below
 - [Dominos](./Dominos)
 - [Doxbin 2022](./Doxbin-2022)
 - [Doxbin](./Doxbin)
-- [Dubsmash](./Dubsmash)
+- [Dubsmash](./Dubsmash.md)
 - [Dan Eckman CPA](./Eckman-CPA)
 - [Explore Talent](./Explore-Talent)
 - [Foodora](./Foodora)
