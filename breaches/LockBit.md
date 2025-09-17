@@ -4,6 +4,7 @@ title: "LockBit Database Leak | Historical Data Breaches Archive"
 description: "In April 2025, the ransomeware group LockBit suffered a data breach that exposed around 60k customer records."
 permalink: /breaches/LockBit/
 image: "https://www.vanroey.be/wp-content/uploads/LockBit-logo.png"
+favicon: "https://files.catbox.moe/rvpqji.png"
 ---
 
 # 🔐 LockBit database leak
