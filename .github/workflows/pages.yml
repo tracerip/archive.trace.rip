@@ -2,7 +2,7 @@ name: BUILD AND SEND IT
 
 on:
   push:
-    branches: [ main ]
+    branches: [ fix/movetofoldersyo ]
   workflow_dispatch:
 
 permissions:
