@@ -3,12 +3,12 @@ layout: default
 title: "BreachForums.vc Database Leak | Historical Data Breaches Archive"
 description: "In June 2023, a clone of the previously shuttered popular hacking forum BreachForums suffered a data breach that exposed over 4k records."
 permalink: /breaches/BreachForums.vc/
-image: "https://upload.wikimedia.org/wikipedia/en/8/85/BreachForums_logo.png"
+image: "https://web.archive.org/web/20250903122111if_/https://upload.wikimedia.org/wikipedia/en/8/85/BreachForums_logo.png"
 ---
 
 # 🕵️‍♂️ BreachForums.vc database leak
 
-<img src="https://upload.wikimedia.org/wikipedia/en/8/85/BreachForums_logo.png" alt="BreachForums Logo" width="200" height="200">
+<img src="https://web.archive.org/web/20250903122111if_/https://upload.wikimedia.org/wikipedia/en/8/85/BreachForums_logo.png" alt="BreachForums Logo" width="200" height="200">
 
 ## Description
 
