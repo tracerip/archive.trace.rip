@@ -5,6 +5,7 @@ description: "In June 2023, a clone of the previously shuttered popular hacking 
 permalink: /breaches/BreachForums.vc/
 image: "https://upload.wikimedia.org/wikipedia/commons/8/85/BreachForums_logo.png"
 favicon: "https://web.archive.org/web/20250902130452if_/https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://breachforums.st&size=48"
+theme: "#D5006D"
 ---
 
 # 🕵️‍♂️ BreachForums.vc database leak
