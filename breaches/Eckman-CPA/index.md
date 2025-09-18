@@ -2,7 +2,7 @@
 layout: default
 title: "Dan Eckman CPA Database Leak | Historical Data Breaches Archive"
 description: "In February 2025, the accounting firm Dan Eckman CPA was compromised by the Akira ransomware group. You can download the entire database for free on HDBA."
-permalink: /breaches/Dan-Eckman-CPA/
+permalink: /breaches/Eckman-CPA/
 image: "https://eckmancpa.com/wp-content/uploads/2018/08/eckman_cpa_logo_white_335x50.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=eckmancpa.com"
 ---
