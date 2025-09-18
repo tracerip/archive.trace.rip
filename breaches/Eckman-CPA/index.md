@@ -21,4 +21,4 @@ Email addresses, Names, Phone numbers, Physical addresses, Financial information
 
 ## Download link
 
-<a href="https://redirect.trace.rip/?url=https://pastes.fmhy.net/qN3cNC" target="_blank" rel="noopener">Dan Eckman CPA Database Download Link</a>
+<a href="https://redirect.trace.rip/?url=https://web.archive.org/web/0/https://pastes.fmhy.net/qN3cNC" target="_blank" rel="noopener">Dan Eckman CPA Database Download Link</a>
