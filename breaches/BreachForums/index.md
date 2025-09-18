@@ -3,13 +3,13 @@ layout: default
 title: "BreachForums Database Leak | Historical Data Breaches Archive"
 description: "In November 2022, the well-known hacking forum BreachForums was itself, breached. Later the following year, the operator of the website was arrested and the site seized by law enforcement agencies."
 permalink: /breaches/BreachForums/
-image: "https://web.archive.org/web/20250903122111if_/https://upload.wikimedia.org/wikipedia/en/8/85/BreachForums_logo.png"
+image: "https://upload.wikimedia.org/wikipedia/commons/8/85/BreachForums_logo.png"
 favicon: "https://web.archive.org/web/20250902130452if_/https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://breachforums.st&size=48"
 ---
 
 # 🛡️ BreachForums database leak
 
-<img src="https://upload.wikimedia.org/wikipedia/en/8/85/BreachForums_logo.png" alt="BreachForums Logo" width="200" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/85/BreachForums_logo.png" alt="BreachForums Logo" width="200" height="200">
 
 ## Description
 
