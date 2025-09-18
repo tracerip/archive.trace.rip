@@ -17,6 +17,7 @@ You can freely download any data breach file using the links provided down below
 
 ## 📂 List of Breaches
 
+- [Animal Jam](./Animal-Jam)
 - [Bestialitysextaboo](./Bestialitysextaboo)
 - [BitView](./BitView)
 - [boAt](./boAt)
