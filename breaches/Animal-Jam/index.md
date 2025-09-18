@@ -13,7 +13,7 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=animaljam.com"
 
 ## Description
 
-In October 2020, the online game for kids <a href="https://www.animaljam.com/en/2020databreach" target="_blank" rel="noopener">Animal Jam suffered a data breach</a> which was subsequently shared through online hacking communities the following month. The data contained 46 million user accounts with over 7 million unique email addresses. Impacted data also included usernames, IP addresses and for some records, dates of birth (sometimes in partial form), physical addresses, parent names and passwords stored as PBKDF2 hashes.
+In October 2020, the online game for kids <a href="https://redirect.trace.rip/?url=https://web.archive.org/web/20201112040021/https://www.animaljam.com/en/2020databreach" target="_blank" rel="noopener">Animal Jam suffered a data breach</a> which was subsequently shared through online hacking communities the following month. The data contained 46 million user accounts with over 7 million unique email addresses. Impacted data also included usernames, IP addresses and for some records, dates of birth (sometimes in partial form), physical addresses, parent names and passwords stored as PBKDF2 hashes.
 
 ## Breached data
 
