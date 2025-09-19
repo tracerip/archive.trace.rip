@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "BitView Database Leak | Historical Data Breaches Archive"
-description: "In December 2024, the video sharing Community BitView suffered a data breach that exposed 63k customer records. You can download the full leak on Historical Data Breaches Archive."
+description: "Download BitView database for free on HDBA. In December 2024, the video sharing Community BitView suffered a data breach that exposed 63k customer records."
 permalink: /breaches/BitView/
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=bitview.net"
 image: "https://synscan.net/storage/img/leaks/3399.png"

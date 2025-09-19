@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Roblox Database Leak | Historical Data Breaches Archive"
-description: "In July 2016, the online gaming website Roblox suffered a major data breach that exposed around 50k customer records."
+description: "Download ROBLOX database for free on HDBA. In July 2016, the online gaming website Roblox suffered a major data breach that exposed around 50k customer records."
 permalink: /breaches/Roblox/
 image: "https://logos.haveibeenpwned.com/Roblox.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=roblox.com"

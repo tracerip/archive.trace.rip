@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Vakinha Database Leak | Historical Data Breaches Archive"
-description: "In June 2020, the Brazilian fund raising service Vakinha suffered a data breach which impacted almost 4.8 million members."
+description: "Download Vakinha database for free on HDBA. In June 2020, the Brazilian fund raising service Vakinha suffered a data breach which impacted almost 4.8 million members."
 permalink: /breaches/Vakinha/
 image: "https://logos.haveibeenpwned.com/Vakinha.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=vakinha.com.br"

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Foodora Database Leak | Historical Data Breaches Archive"
-description: "In April 2016, the online food delivery service Foodora suffered a major data breach which was then extensively redistributed online. The data breach exposed around 582k customer records."
+description: "Download Foodora database for free on HDBA. In April 2016, the online food delivery service Foodora suffered a major data breach which was then extensively redistributed online. The data breach exposed around 582k customer records."
 permalink: /breaches/Foodora/
 image: "https://logos.haveibeenpwned.com/Foodora.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=foodora.com"

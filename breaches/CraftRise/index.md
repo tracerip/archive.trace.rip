@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "CraftRise Database Leak | Historical Data Breaches Archive"
-description: "In May 2023, the Turkish Minecraft server CraftRise suffered a data breach that exposed around 2.5m customer records."
+description: "Download CraftRise database for free on HDBA. In May 2023, the Turkish Minecraft server CraftRise suffered a data breach that exposed around 2.5m customer records."
 permalink: /breaches/CraftRise/
 image: "https://logos.haveibeenpwned.com/CraftRise.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=craftrise.com.tr"

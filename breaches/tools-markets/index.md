@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "tools-markets Database Leak | Historical Data Breaches Archive"
-description: "In August 2024, the russian market website tools-markets suffered a major data breach that exposed around 2k customer records."
+description: "Download tools-markets database for free on HDBA. In August 2024, the russian market website tools-markets suffered a major data breach that exposed around 2k customer records."
 permalink: /breaches/tools-markets/
 image: "https://tools-markets.ru/image/data/logo.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=tools-markets.ru"

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Guns.com Database Leak | Historical Data Breaches Archive"
-description: "In January 2021, the firearms website guns.com suffered a data breach."
+description: "Download guns.com database for free on HDBA. In January 2021, the firearms website guns.com suffered a data breach."
 permalink: /breaches/Guns.com/
 image: "https://logos.haveibeenpwned.com/GunsDotCom.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=guns.com"

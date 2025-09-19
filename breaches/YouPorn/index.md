@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "YouPorn Database Leak | Historical Data Breaches Archive"
-description: "In February 2012, the adult website YouPorn had over 1.3M user accounts exposed in a data breach. The publicly released data included both email addresses and plain text passwords."
+description: "Download YouPorn database for free on HDBA. In February 2012, the adult website YouPorn had over 1.3M user accounts exposed in a data breach. The publicly released data included both email addresses and plain text passwords."
 permalink: /breaches/YouPorn/
 image: "https://logos.haveibeenpwned.com/YouPorn.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=youporn.com"

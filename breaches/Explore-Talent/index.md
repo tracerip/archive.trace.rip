@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Explore Talent Database Leak | Historical Data Breaches Archive"
-description: "In July 2024, a data breach attributed to Explore Talent was publicly posted to a popular hacking forum."
+description: "Download Explore Talent database for free on HDBA. In July 2024, a data breach attributed to Explore Talent was publicly posted to a popular hacking forum."
 permalink: /breaches/Explore-Talent/
 image: "https://logos.haveibeenpwned.com/ExploreTalent.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=exploretalent.com"

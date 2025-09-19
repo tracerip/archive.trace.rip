@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "TRACKED Database Leak | Historical Data Breaches Archive"
-description: "In June 2025, the csint intelligence platform website tracked.sh suffered a major data breach that exposed around 1k customer records."
+description: "Download TRACKED database for free on HDBA. In June 2025, the csint intelligence platform website tracked.sh suffered a major data breach that exposed around 1k customer records."
 permalink: /breaches/TRACKED/
 image: "https://tracked.sh/favicon.ico"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=tracked.sh"

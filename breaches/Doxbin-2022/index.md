@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Doxbin Database Leak | Historical Data Breaches Archive"
-description: "In January 2022, the doxing website designed to disclose the personal information of targeted individuals (doxes) Doxbin suffered a data breach."
+description: "Download Doxbin database for free on HDBA. In January 2022, the doxing website designed to disclose the personal information of targeted individuals (doxes) Doxbin suffered a data breach."
 permalink: /breaches/Doxbin-2022/
 image: "https://logos.haveibeenpwned.com/Doxbin.png"
 theme: "#000000"

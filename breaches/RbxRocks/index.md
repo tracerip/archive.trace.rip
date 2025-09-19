@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "RbxRocks Database Leak | Historical Data Breaches Archive"
-description: "In August 2018, the Roblox trading site RbxRocks suffered a data breach. You can download the entire database for free on HDBA."
+description: "Download rbx.rocks database for free on HDBA. In August 2018, the Roblox trading site RbxRocks suffered a data breach. You can download the entire database for free on HDBA."
 permalink: /breaches/RbxRocks/
 image: "https://logos.haveibeenpwned.com/RbxRocks.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=rbx.rocks"

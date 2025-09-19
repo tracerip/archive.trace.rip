@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Animal Jam Database Leak | Historical Data Breaches Archive"
-description: "In October 2020, the online game for kids Animal Jam suffered a data breachwhich was subsequently shared through online hacking communities the following month. You can download the entire database for free on HDBA."
+description: "Download Animal Jams database for free on HDBA. In October 2020, the online game for kids Animal Jam suffered a data breachwhich was subsequently shared through online hacking communities the following month."
 permalink: /breaches/Animal-Jam/
 image: "https://logos.haveibeenpwned.com/AnimalJam.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=animaljam.com"

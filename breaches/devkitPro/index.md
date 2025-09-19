@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "devkitPro Database Leak | Historical Data Breaches Archive"
-description: "In February 2019, the devkitPro forum suffered a data breach. The phpBB based forum had 1,508 unique email addresses exposed in the breach alongside forum posts, private messages and passwords stored as weak salted hashes."
+description: "Download devkitPro database for free on HDBA. In February 2019, the devkitPro forum suffered a data breach. The phpBB based forum had 1,508 unique email addresses exposed in the breach alongside forum posts, private messages and passwords stored as weak salted hashes."
 permalink: /breaches/devkitPro/
 image: "https://logos.haveibeenpwned.com/devkitPro.png"
 theme: "#c0c0c0"

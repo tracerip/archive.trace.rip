@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Traderie Database Leak | Historical Data Breaches Archive"
-description: "In September 2022, the in-game trading marketplace Traderie suffered a data breach that exposed almost 400k records."
+description: "Download Traderie database for free on HDBA. In September 2022, the in-game trading marketplace Traderie suffered a data breach that exposed almost 400k records."
 permalink: /breaches/Traderie/
 image: "https://logos.haveibeenpwned.com/Traderie.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=traderie.com"
