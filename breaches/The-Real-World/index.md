@@ -6,6 +6,8 @@ permalink: /breaches/The-Real-World/
 image: "https://logos.haveibeenpwned.com/TheRealWorld.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=jointherealworld.com"
 theme: "#fdc426"
+redirect_from:
+  - /breaches/The Real World.html
 ---
 
 # ♟️ The Real World database leak

@@ -6,6 +6,8 @@ permalink: /breaches/tools-markets/
 image: "https://tools-markets.ru/image/data/logo.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=tools-markets.ru"
 theme: "#964555"
+redirect_from:
+  - /breaches/tools-markets.html
 ---
 
 # ⛏️ tools-markets database leak

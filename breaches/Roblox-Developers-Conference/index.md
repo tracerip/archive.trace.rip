@@ -6,6 +6,8 @@ permalink: /breaches/Roblox-Developers-Conference/
 image: "https://logos.haveibeenpwned.com/Roblox.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=roblox.com"
 theme: "#e2231a"
+redirect_from:
+  - /breaches/Roblox Developers Conference.html
 ---
 
 # 🟥 Roblox Developers Conference database leak

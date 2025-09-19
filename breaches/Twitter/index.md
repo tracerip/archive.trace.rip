@@ -6,6 +6,8 @@ permalink: /breaches/Twitter/
 image: "https://logos.haveibeenpwned.com/Twitter.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=twitter.com"
 theme: "#55adee"
+redirect_from:
+  - /breaches/Twitter.html
 ---
 
 # 🐦 Twitter database leak

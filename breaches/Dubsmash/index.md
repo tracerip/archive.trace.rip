@@ -5,6 +5,8 @@ description: "Download Dubsmash database for free on HDBA. In December 2018, the
 permalink: /breaches/Dubsmash/
 image: "https://logos.haveibeenpwned.com/Dubsmash.png"
 theme: "#7b68ee"
+redirect_from:
+  - /breaches/Dubsmash.html
 ---
 
 # 📷 Dubsmash database leak

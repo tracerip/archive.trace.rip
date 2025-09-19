@@ -6,6 +6,8 @@ permalink: /breaches/YouPorn/
 image: "https://logos.haveibeenpwned.com/YouPorn.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=youporn.com"
 theme: "#f2659b"
+redirect_from:
+  - /breaches/YouPorn.html
 ---
 
 # 🔞 YouPorn database leak

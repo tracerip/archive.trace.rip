@@ -6,6 +6,8 @@ permalink: /breaches/Tea/
 image: "https://duckduckgo.com/i/62a84d514a91d06b.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=teaforwomen.com"
 theme: "#a3ff8b"
+redirect_from:
+  - /breaches/Tea.html
 ---
 
 # 🍵 Tea database leak

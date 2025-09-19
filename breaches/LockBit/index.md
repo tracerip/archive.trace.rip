@@ -6,6 +6,10 @@ permalink: /breaches/LockBit/
 image: "https://www.vanroey.be/wp-content/uploads/LockBit-logo.png"
 favicon: "https://files.catbox.moe/rvpqji.png"
 theme: "#f71a3a"
+redirect_from:
+  - /breaches/Lockbit.html
+  - /breaches/LockBit.html
+  - /breaches/Lockbit
 ---
 
 # 🔐 LockBit database leak

@@ -6,6 +6,8 @@ permalink: /breaches/CommuteAir/
 image: "https://i.imgur.com/vD1jemx.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=flycommutair.com"
 theme: "#0072B1"
+redirect_from:
+  - /breaches/CommuteAir.html
 ---
 
 # ✈️ CommuteAir database leak

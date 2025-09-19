@@ -6,6 +6,8 @@ permalink: /breaches/Foodora/
 image: "https://logos.haveibeenpwned.com/Foodora.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=foodora.com"
 theme: "#e91e63"
+redirect_from:
+  - /breaches/Foodora.html
 ---
 
 # 😋 Foodora database leak

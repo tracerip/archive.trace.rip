@@ -5,6 +5,8 @@ description: "Download devkitPro database for free on HDBA. In February 2019, th
 permalink: /breaches/devkitPro/
 image: "https://logos.haveibeenpwned.com/devkitPro.png"
 theme: "#c0c0c0"
+redirect_from:
+  - /breaches/devkitPro.html
 ---
 
 # 🧑‍💻 devkitPro database leak

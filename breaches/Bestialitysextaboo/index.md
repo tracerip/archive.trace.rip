@@ -6,6 +6,8 @@ permalink: /breaches/Bestialitysextaboo/
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=bestialitysextaboo.com"
 image: "https://logos.haveibeenpwned.com/Bestialitysextaboo.png"
 theme: "#C8102E"
+redirect_from:
+  - /breaches/Bestialitysextaboo.html
 ---
 
 # 🐕 Bestialitysextaboo database leak

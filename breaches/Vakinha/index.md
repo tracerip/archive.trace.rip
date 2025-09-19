@@ -6,6 +6,8 @@ permalink: /breaches/Vakinha/
 image: "https://logos.haveibeenpwned.com/Vakinha.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=vakinha.com.br"
 theme: "#00a652"
+redirect_from:
+  - /breaches/Vakinha.html
 ---
 
 # 💸 Vakinha database leak

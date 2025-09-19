@@ -5,6 +5,8 @@ description: "Download Doxbin database for free on HDBA. In January 2022, the do
 permalink: /breaches/Doxbin-2022/
 image: "https://logos.haveibeenpwned.com/Doxbin.png"
 theme: "#000000"
+redirect_from:
+  - /breaches/Doxbin 2022.html
 ---
 
 # 🕵️‍♂️ Doxbin database leak

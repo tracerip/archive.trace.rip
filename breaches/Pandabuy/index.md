@@ -6,6 +6,8 @@ permalink: /breaches/Pandabuy/
 image: "https://logos.haveibeenpwned.com/Pandabuy.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=pandabuy.com"
 theme: "#333333"
+redirect_from:
+  - /breaches/Pandabuy.html
 ---
 
 # 🐼 Pandabuy database leak

@@ -6,6 +6,9 @@ permalink: /breaches/TRACKED/
 image: "https://tracked.sh/favicon.ico"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=tracked.sh"
 theme: "#e30000"
+redirect_from:
+  - /breaches/Tracked.html
+  - /breaches/TRACKED.html
 ---
 
 # 🕵️‍♀️ TRACKED database leak

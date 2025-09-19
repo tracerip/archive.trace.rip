@@ -6,6 +6,8 @@ permalink: /breaches/Dominos/
 image: "https://logos.haveibeenpwned.com/Dominos.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=dominos.com"
 theme: "#e31837"
+redirect_from:
+  - /breaches/Dominos.html
 ---
 
 # 🍕 Domino's database leak

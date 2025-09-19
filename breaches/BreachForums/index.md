@@ -6,6 +6,8 @@ permalink: /breaches/BreachForums/
 image: "https://upload.wikimedia.org/wikipedia/commons/8/85/BreachForums_logo.png"
 favicon: "https://web.archive.org/web/20250902130452if_/https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://breachforums.st&size=48"
 theme: "#D5006D"
+redirect_from:
+  - /breaches/BreachForums.html
 ---
 
 # 🛡️ BreachForums database leak

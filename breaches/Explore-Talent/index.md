@@ -6,6 +6,8 @@ permalink: /breaches/Explore-Talent/
 image: "https://logos.haveibeenpwned.com/ExploreTalent.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=exploretalent.com"
 theme: "#1e88e5"
+redirect_from:
+  - /breaches/Explore Talent.html
 ---
 
 # ⭐ Explore Talent database leak
