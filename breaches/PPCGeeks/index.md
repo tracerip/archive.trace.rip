@@ -5,6 +5,7 @@ description: "In August 2016, the pocket PC fan site forum PPCGeeks suffered a d
 permalink: /breaches/PPCGeeks/
 image: "https://web.archive.org/web/20250607185502if_/https://ppcgeeks.ai/wp-content/uploads/2023/01/PPC-Geeks-Logo.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=ppcgeeks.com"
+theme: "#8bc541"
 ---
 
 # 💻 PPCGeeks database leak

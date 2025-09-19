@@ -5,6 +5,7 @@ description: "In April 2025, the ransomeware group LockBit suffered a data breac
 permalink: /breaches/LockBit/
 image: "https://www.vanroey.be/wp-content/uploads/LockBit-logo.png"
 favicon: "https://files.catbox.moe/rvpqji.png"
+theme: "#f71a3a"
 ---
 
 # 🔐 LockBit database leak

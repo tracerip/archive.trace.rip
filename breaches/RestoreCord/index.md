@@ -5,6 +5,7 @@ description: "On December 22nd, the Discord raid recovery bot RestoreCord suffer
 permalink: /breaches/RestoreCord/
 image: "https://files.catbox.moe/dgz5f6.ico"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=restorecord.com"
+theme: "#4f46e5"
 ---
 
 # 🛠️ RestoreCord database leak

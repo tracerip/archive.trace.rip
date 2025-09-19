@@ -5,6 +5,7 @@ description: "In July 2024, a data breach attributed to Explore Talent was publi
 permalink: /breaches/Explore-Talent/
 image: "https://logos.haveibeenpwned.com/ExploreTalent.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=exploretalent.com"
+theme: "#1e88e5"
 ---
 
 # ⭐ Explore Talent database leak

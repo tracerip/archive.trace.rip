@@ -5,6 +5,7 @@ description: "In August 2016, the service for creating and running Pocket Minecr
 permalink: /breaches/Leet-CC/
 favicon: "https://web.archive.org/web/20151030053607im_/http://leet.cc/media/favicon.ico"
 image: "https://logos.haveibeenpwned.com/Leet.png"
+theme: "#ffffff"
 ---
 
 # ⚒️ Leet database leak

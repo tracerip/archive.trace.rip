@@ -4,6 +4,7 @@ title: "Historical Stealer Logs Archive"
 description: "Welcome to the Historical Data Breaches Archive! This repository contains a comprehensive and ever-growing collection of stealer logs throughout history. All the logs stored here are publicly available and can be freely downloaded for research, analysis, or educational purposes."
 permalink: /stealer-logs/
 image: "https://duckduckgo.com/i/9a68df6bfa29c6bd.png"
+theme: "#fad656"
 ---
 
 # 📂 Stealer Logs Archive

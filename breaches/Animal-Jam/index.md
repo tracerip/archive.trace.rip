@@ -5,6 +5,7 @@ description: "In October 2020, the online game for kids Animal Jam suffered a da
 permalink: /breaches/Animal-Jam/
 image: "https://logos.haveibeenpwned.com/AnimalJam.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=animaljam.com"
+theme: "#A8D700"
 ---
 
 # 🐼 Animal Jam database leak

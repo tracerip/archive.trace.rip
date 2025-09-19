@@ -5,6 +5,7 @@ description: "On approximately October 14th, the staffing and recruiting website
 permalink: /breaches/JobHound/
 image: "https://support.jobhound.mt/wp-content/themes/docly/assets/img/logo-2x.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=jobhound.mt"
+theme: "#FF8A00"
 ---
 
 # 🔍 JobHound database leak

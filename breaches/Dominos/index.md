@@ -5,6 +5,7 @@ description: "In June 2014, Domino's Pizza in France and Belgium was hacked by a
 permalink: /breaches/Dominos/
 image: "https://logos.haveibeenpwned.com/Dominos.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=dominos.com"
+theme: "#e31837"
 ---
 
 # 🍕 Domino's database leak

@@ -5,6 +5,7 @@ description: "In June 2025, the csint intelligence platform website tracked.sh s
 permalink: /breaches/TRACKED/
 image: "https://tracked.sh/favicon.ico"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=tracked.sh"
+theme: "#e30000"
 ---
 
 # 🕵️‍♀️ TRACKED database leak

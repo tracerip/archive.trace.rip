@@ -5,6 +5,7 @@ description: "On approximately January 2021, the microblogging and social websit
 permalink: /breaches/Twitter/
 image: "https://logos.haveibeenpwned.com/Twitter.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=twitter.com"
+theme: "#55adee"
 ---
 
 # 🐦 Twitter database leak

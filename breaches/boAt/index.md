@@ -5,6 +5,7 @@ description: "In March 2024, the Indian audio and wearables brand boAt suffered 
 permalink: /breaches/boAt/
 image: "https://logos.haveibeenpwned.com/boAt.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=boat-lifestyle.com"
+theme: "#FF0000"
 ---
 
 # 🔉 boAt database leak

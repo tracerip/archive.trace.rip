@@ -5,6 +5,7 @@ description: "In September 2022, the in-game trading marketplace Traderie suffer
 permalink: /breaches/Traderie/
 image: "https://logos.haveibeenpwned.com/Traderie.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=traderie.com"
+theme: "#febe00"
 ---
 
 # 💱 Traderie database leak

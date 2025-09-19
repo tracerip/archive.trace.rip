@@ -5,6 +5,7 @@ description: "In January 2021, the firearms website guns.com suffered a data bre
 permalink: /breaches/Guns.com/
 image: "https://logos.haveibeenpwned.com/GunsDotCom.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=guns.com"
+theme: "#8b7355"
 ---
 
 # 🔫 Guns.com database leak

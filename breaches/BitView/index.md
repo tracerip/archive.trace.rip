@@ -5,6 +5,7 @@ description: "In December 2024, the video sharing Community BitView suffered a d
 permalink: /breaches/BitView/
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=bitview.net"
 image: "https://synscan.net/storage/img/leaks/3399.png"
+theme: "#0072B8"
 ---
 
 # 🤳 BitView database leak

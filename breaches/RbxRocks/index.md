@@ -5,6 +5,7 @@ description: "In August 2018, the Roblox trading site RbxRocks suffered a data b
 permalink: /breaches/RbxRocks/
 image: "https://logos.haveibeenpwned.com/RbxRocks.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=rbx.rocks"
+theme: "#44aa41"
 ---
 
 # ®️ RbxRocks database leak

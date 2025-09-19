@@ -5,6 +5,7 @@ description: "In July 2023, a list of alleged attendees from the 2017-2020 Roblo
 permalink: /breaches/Roblox-Developers-Conference/
 image: "https://logos.haveibeenpwned.com/Roblox.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=roblox.com"
+theme: "#e2231a"
 ---
 
 # 🟥 Roblox Developers Conference database leak

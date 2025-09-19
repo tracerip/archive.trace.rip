@@ -5,6 +5,7 @@ description: "In January of 2023, CommuteAir suffered a breach that exposed the 
 permalink: /breaches/CommuteAir/
 image: "https://i.imgur.com/vD1jemx.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=flycommutair.com"
+theme: "#0072B1"
 ---
 
 # ✈️ CommuteAir database leak

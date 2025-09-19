@@ -5,6 +5,7 @@ description: "In May 2023, the Turkish Minecraft server CraftRise suffered a dat
 permalink: /breaches/CraftRise/
 image: "https://logos.haveibeenpwned.com/CraftRise.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=craftrise.com.tr"
+theme: "#ff6b35"
 ---
 
 # ⛏️ CraftRise database leak

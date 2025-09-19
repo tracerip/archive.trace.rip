@@ -5,6 +5,7 @@ description: "In April 2016, the online food delivery service Foodora suffered a
 permalink: /breaches/Foodora/
 image: "https://logos.haveibeenpwned.com/Foodora.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=foodora.com"
+theme: "#e91e63"
 ---
 
 # 😋 Foodora database leak

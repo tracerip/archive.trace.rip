@@ -5,6 +5,7 @@ description: "In February 2012, the adult website YouPorn had over 1.3M user acc
 permalink: /breaches/YouPorn/
 image: "https://logos.haveibeenpwned.com/YouPorn.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=youporn.com"
+theme: "#f2659b"
 ---
 
 # 🔞 YouPorn database leak

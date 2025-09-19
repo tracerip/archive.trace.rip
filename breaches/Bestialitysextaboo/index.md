@@ -5,6 +5,7 @@ description: "In March 2018, the animal bestiality website known as Bestialityse
 permalink: /breaches/Bestialitysextaboo/
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=bestialitysextaboo.com"
 image: "https://logos.haveibeenpwned.com/Bestialitysextaboo.png"
+theme: "#C8102E"
 ---
 
 # 🐕 Bestialitysextaboo database leak

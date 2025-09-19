@@ -5,6 +5,7 @@ description: "In March 2024, 1.3M unique email addresses from the online store f
 permalink: /breaches/Pandabuy/
 image: "https://logos.haveibeenpwned.com/Pandabuy.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=pandabuy.com"
+theme: "#333333"
 ---
 
 # 🐼 Pandabuy database leak

@@ -5,6 +5,7 @@ description: "In mid-2018, social commerce marketplace Poshmark suffered a data 
 permalink: /breaches/Poshmark/
 image: "https://logos.haveibeenpwned.com/Poshmark.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=poshmark.com"
+theme: "#7f0353"
 ---
 
 # 💷 Poshmark database leak

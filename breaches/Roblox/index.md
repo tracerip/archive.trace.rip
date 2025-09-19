@@ -5,6 +5,7 @@ description: "In July 2016, the online gaming website Roblox suffered a major da
 permalink: /breaches/Roblox/
 image: "https://logos.haveibeenpwned.com/Roblox.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=roblox.com"
+theme: "#e2231a"
 ---
 
 # 🎮 Roblox database leak
