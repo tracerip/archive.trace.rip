@@ -8,6 +8,7 @@ favicon: "https://web.archive.org/web/20250902130452if_/https://t3.gstatic.com/f
 theme: "#D5006D"
 redirect_from:
   - /breaches/BreachForums.vc.html
+  - /breaches/BreachForumsVC
 ---
 
 # 🕵️‍♂️ BreachForums.vc database leak

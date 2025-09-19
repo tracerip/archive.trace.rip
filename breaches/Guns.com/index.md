@@ -8,6 +8,7 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=guns.com"
 theme: "#8b7355"
 redirect_from:
   - /breaches/Guns.com.html
+  - /breaches/GunsDotCom
 ---
 
 # 🔫 Guns.com database leak

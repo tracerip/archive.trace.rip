@@ -8,6 +8,7 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=kcna.kp"
 theme: "#e91f2b"
 redirect_from:
   - /stealer-logs/North Korea.html
+  - /stealer-logs/NorthKorea
 ---
 
 # 🇰🇵 North Korean Person leak

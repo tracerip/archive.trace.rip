@@ -8,6 +8,7 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=tools-markets.ru"
 theme: "#964555"
 redirect_from:
   - /breaches/tools-markets.html
+  - /breaches/toolsmarkets
 ---
 
 # ⛏️ tools-markets database leak

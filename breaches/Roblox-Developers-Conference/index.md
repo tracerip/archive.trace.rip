@@ -8,6 +8,7 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=roblox.com"
 theme: "#e2231a"
 redirect_from:
   - /breaches/Roblox Developers Conference.html
+  - /breaches/RDC
 ---
 
 # 🟥 Roblox Developers Conference database leak
