@@ -8,6 +8,8 @@ favicon: "https://www.google.com/s2/favicons?sz=48&domain=exploretalent.com"
 theme: "#1e88e5"
 redirect_from:
   - /breaches/Explore Talent.html
+  - /breaches/ExploreTalent/
+  - /breaches/ExploreTalent
 ---
 
 # ⭐ Explore Talent database leak

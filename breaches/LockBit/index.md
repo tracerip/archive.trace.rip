@@ -10,6 +10,7 @@ redirect_from:
   - /breaches/Lockbit.html
   - /breaches/LockBit.html
   - /breaches/Lockbit
+  - /breaches/Lockbit/
 ---
 
 # 🔐 LockBit database leak
