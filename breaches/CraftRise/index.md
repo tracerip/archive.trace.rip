@@ -7,7 +7,7 @@ image: "https://logos.haveibeenpwned.com/CraftRise.png"
 favicon: "https://www.google.com/s2/favicons?sz=48&domain=craftrise.com.tr"
 theme: "#ff6b35"
 redirect_from:
-  - /CraftRise.html
+  - /breaches/CraftRise.html
 ---
 
 # ⛏️ CraftRise database leak
