@@ -9,6 +9,8 @@ theme: "#e30000"
 redirect_from:
   - /breaches/Tracked.html
   - /breaches/TRACKED.html
+  - /breaches/Tracked
+  - /breaches/Tracked/
 ---
 
 # 🕵️‍♀️ TRACKED database leak
