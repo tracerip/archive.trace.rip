@@ -9,6 +9,7 @@ theme: "#8b7355"
 redirect_from:
   - /breaches/Guns.com.html
   - /breaches/GunsDotCom
+  - /breaches/GunsDotCom/
 ---
 
 # 🔫 Guns.com database leak

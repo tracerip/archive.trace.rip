@@ -9,6 +9,7 @@ theme: "#fdc426"
 redirect_from:
   - /breaches/The Real World.html
   - /breaches/TheRealWorld
+  - /breaches/TheRealWorld/
 ---
 
 # ♟️ The Real World database leak

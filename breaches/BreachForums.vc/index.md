@@ -9,6 +9,7 @@ theme: "#D5006D"
 redirect_from:
   - /breaches/BreachForums.vc.html
   - /breaches/BreachForumsVC
+  - /breaches/BreachForumsVC/
 ---
 
 # 🕵️‍♂️ BreachForums.vc database leak

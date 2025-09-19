@@ -9,6 +9,7 @@ theme: "#e2231a"
 redirect_from:
   - /breaches/Roblox Developers Conference.html
   - /breaches/RDC
+  - /breaches/RDC/
 ---
 
 # 🟥 Roblox Developers Conference database leak

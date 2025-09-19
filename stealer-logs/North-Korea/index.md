@@ -9,6 +9,7 @@ theme: "#e91f2b"
 redirect_from:
   - /stealer-logs/North Korea.html
   - /stealer-logs/NorthKorea/
+  - /stealer-logs/NorthKorea
 ---
 
 # 🇰🇵 North Korean Person leak

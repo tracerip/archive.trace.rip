@@ -9,6 +9,7 @@ theme: "#964555"
 redirect_from:
   - /breaches/tools-markets.html
   - /breaches/toolsmarkets
+  - /breaches/toolsmarkets/
 ---
 
 # ⛏️ tools-markets database leak

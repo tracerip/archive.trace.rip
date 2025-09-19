@@ -8,6 +8,7 @@ theme: "#000000"
 redirect_from:
   - /breaches/Doxbin 2022.html
   - /breaches/Doxbin2022
+  - /breaches/Doxbin2022/
 ---
 
 # 🕵️‍♂️ Doxbin database leak
