@@ -48,7 +48,7 @@ You can also contribute new data breaches by submitting a pull request or by sug
 
 ## 🔧 Contributions & Issues
 
-If you come across a new data breach, stealer logs, or notice outdated information, feel free to contribute. You can submit a pull request or open an issue for review at [our GitHub](https://redirect.trace.rip/?url=https://github.com/YoureIronic/Historical-Data-Breaches-Archive).
+If you come across a new data breach, stealer logs, or notice outdated information, feel free to contribute. You can submit a pull request or open an issue for review at [our GitHub](https://redirect.trace.rip/?url=https://github.com/tracerip/Historical-Data-Breaches-Archive).
 
 ## 📋 Commit Types & Examples
 
