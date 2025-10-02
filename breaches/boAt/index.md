@@ -22,4 +22,4 @@ Email addresses, Names, Phone numbers, Physical addresses
 
 ## Download link
 
-[boAt Database Download Link](https://web.archive.org/web/20250903121614/https://pastes.fmhy.net/CiIRLX)
+[boAt Database Download Link](https://redirect.trace.rip/?url=https://rentry.co/HDBA-boAt)

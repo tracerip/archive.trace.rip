@@ -25,4 +25,4 @@ Chat logs, Email addresses, Usernames
 
 ## Download link
 
-[The Real World Database Download Link](https://redirect.trace.rip/?url=https://web.archive.org/web/20250903121755/https://pastes.fmhy.net/AKHcxn)
+[The Real World Database Download Link](https://redirect.trace.rip/?url=https://rentry.co/HDBA-the-real-world)

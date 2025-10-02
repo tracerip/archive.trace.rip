@@ -24,4 +24,4 @@ Selfies, Photo identification, Posts, Comments, Direct messages
 
 ## Download link
 
-[Tea Database Download Link](https://redirect.trace.rip/?url=https://web.archive.org/web/20250903121826/https://pastes.fmhy.net/MyajVO)
+[Tea Database Download Link](https://redirect.trace.rip/?url=https://rentry.co/HDBA-tea)
