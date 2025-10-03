@@ -22,7 +22,7 @@ You can freely download any stealer log file using the links provided down below
 
 ## 🔧 Contributions & Issues
 
-If you come across a new data breach, stealer logs, or notice outdated information, feel free to contribute. You can submit a pull request or open an issue for review at [our GitHub](https://redirect.trace.rip/?url=https://github.com/tracerip/Historical-Data-Breaches-Archive).
+If you come across a new data breach, stealer logs, or notice outdated information, feel free to contribute. You can submit a pull request or open an issue for review at [our GitHub](https://redirect.trace.rip/?url=https://github.com/tracerip/archive.trace.rip).
 
 ## 🔗 External Resources
 
