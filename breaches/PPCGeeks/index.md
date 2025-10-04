@@ -24,4 +24,4 @@ Birthdates, Email Addresses IP Addresses, Passwords, Usernames
 
 ## Download link
 
-[PPCGeeks Database Download Link](https://redirect.trace.rip/?url=https://buzzheavier.com/s9k47ej5wh8y)
+<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/x4hql8nehye3" target="_blank" rel="noopener">PPCGeeks Database Download Link</a>

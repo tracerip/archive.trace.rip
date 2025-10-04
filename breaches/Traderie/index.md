@@ -22,4 +22,4 @@ Email addresses, IP addresses, Social media profiles, Usernames
 
 ## Download link
 
-[Traderie Database Download Link](https://redirect.trace.rip/?url=https://buzzheavier.com/leveedge6ofn)
+<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/yml5jslf5lls" target="_blank" rel="noopener">Traderie Database Download Link</a>

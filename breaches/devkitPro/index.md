@@ -23,4 +23,4 @@ Email addresses, Passwords, Private messages
 
 ## Download link
 
-[devkitPro Database Download Link](https://redirect.trace.rip/?url=https://buzzheavier.com/ih0z8kisd9fp)
+<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/5tbccfvctg9a" target="_blank" rel="noopener">devkitPro Database Download Link</a>

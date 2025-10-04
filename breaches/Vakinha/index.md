@@ -24,4 +24,4 @@ Dates of birth, Email addresses, IP addresses, Names, Passwords, Phone numbers
 
 ## Download link
 
-[Vakinha Database Download Link](https://redirect.trace.rip/?url=https://buzzheavier.com/v6v66zwjbcce)
+<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/9fri8nte5yxd" target="_blank" rel="noopener">Vakinha Database Download Link</a>

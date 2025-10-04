@@ -26,4 +26,4 @@ Email addresses, Names, Phone numbers, Physical addresses
 
 ## Download link
 
-[Explore Talent Database Download Link](https://redirect.trace.rip/?url=https://buzzheavier.com/18u0dpmzrbxk)
+<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/ryyo8hjysdms" target="_blank" rel="noopener">Explore Talent Database Download Link</a>

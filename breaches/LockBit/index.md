@@ -27,4 +27,4 @@ Cryptocurrency Information, Passwords, Usernames
 
 ## Download link
 
-[LockBit Database Download Link](https://redirect.trace.rip/?url=https://mega.nz/file/QdY1RChY#thSnDNNXDHspBSwzAfVeNqGq2knWAjkDaRsOLSLXp2g)
+<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/xtd2rak9ckis" target="_blank" rel="noopener">LockBit Database Download Link</a>

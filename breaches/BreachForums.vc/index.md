@@ -26,4 +26,4 @@ Email addresses, IP addresses, Passwords, Usernames
 
 ## Download link
 
-[BreachForums Database Download Link](https://redirect.trace.rip/?url=https://files.catbox.moe/6fo3po.sql)
+<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/242dn80aerb0" target="_blank" rel="noopener">BreachForums.vc Database Download Link</a>

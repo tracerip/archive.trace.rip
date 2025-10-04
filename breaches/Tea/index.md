@@ -24,4 +24,4 @@ Selfies, Photo identification, Posts, Comments, Direct messages
 
 ## Download link
 
-[Tea Database Download Link](https://redirect.trace.rip/?url=https://rentry.co/HDBA-tea)
+<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/qoejhgzyxzgd" target="_blank" rel="noopener">Tea Database Download Link</a>

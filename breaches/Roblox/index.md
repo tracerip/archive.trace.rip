@@ -24,4 +24,4 @@ Account Balance, IP Address, Username, Email Address, Purchases
 
 ## Download link
 
-[Roblox Database Download Link](https://redirect.trace.rip/?url=https://buzzheavier.com/rt2bh8lhbits)
+<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/huma2ljfzifw" target="_blank" rel="noopener">Roblox Database Download Link</a>

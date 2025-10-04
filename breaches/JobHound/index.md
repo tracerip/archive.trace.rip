@@ -24,4 +24,4 @@ Email Address, First Name, Last Name, Registered, Gender, Languages, Birthday, L
 
 ## Download link
 
-[JobHound Database Download Link](https://redirect.trace.rip/?url=https://buzzheavier.com/zfhb4p64woq4)
+<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/dgy29ovpecb1" target="_blank" rel="noopener">JobHound Database Download Link</a>

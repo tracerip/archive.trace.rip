@@ -23,4 +23,4 @@ Usernames, Email addresses
 
 ## Download link
 
-[Doxbin Database Download Link](https://redirect.trace.rip/?url=https://buzzheavier.com/2vxazxlp7j7d)
+<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/s7lprrvbsmh5" target="_blank" rel="noopener">Doxbin Database Download Link</a>

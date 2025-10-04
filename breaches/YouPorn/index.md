@@ -24,4 +24,4 @@ Email addresses, Passwords
 
 ## Download link
 
-[YouPorn Database Download Link](https://redirect.trace.rip/?url=https://buzzheavier.com/zx6j0qf0pi0i)
+<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/7qp50igq4kf4" target="_blank" rel="noopener">YouPorn Database Download Link</a>

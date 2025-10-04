@@ -24,4 +24,4 @@ Email addresses, IP addresses, Names, Phone numbers, Physical addresses
 
 ## Download link
 
-[Pandabuy Database Download Link](https://redirect.trace.rip/?url=https://files.waifu.cat/39f43701.zip)
+<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/95g2bjda692u" target="_blank" rel="noopener">Pandabuy Database Download Link</a>

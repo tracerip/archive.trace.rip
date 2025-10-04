@@ -24,4 +24,4 @@ Names, Date of Birth
 
 ## Download link
 
-[TSA No Fly List Download Link](https://redirect.trace.rip/?url=https://rentry.co/HDBA-commuteair)
+<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/q6vymrm58y6z" target="_blank" rel="noopener">TSA No Fly List Download Link</a>

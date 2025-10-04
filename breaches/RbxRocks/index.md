@@ -22,4 +22,4 @@ Email addresses, Names, Passwords
 
 ## Download link
 
-<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/m5xlozeypzxi" target="_blank" rel="noopener">RbxRocks Database Download Link</a>
+<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/ccezkc99i0il" target="_blank" rel="noopener">RbxRocks Database Download Link</a>

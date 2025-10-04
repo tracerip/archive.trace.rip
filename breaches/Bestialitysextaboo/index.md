@@ -24,4 +24,4 @@ Dates of birth, Email addresses, Genders, Geographic locations, IP addresses, Pa
 
 ## Download link
 
-<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/5yfzglfuh0i4" target="_blank" rel="noopener">Bestialitysextaboo Database Download Link</a>
+<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/oa8qyxprbm1b" target="_blank" rel="noopener">Bestialitysextaboo Database Download Link</a>

@@ -26,4 +26,4 @@ Clothing sizes, Dates of birth, Email addresses, IP addresses, Names, Phone numb
 
 ## Download link
 
-[RDC Database Download Link](https://redirect.trace.rip/?url=https://buzzheavier.com/j6thdn24enwc)
+<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/5v0kg5itlwxz" target="_blank" rel="noopener">RDC Database Download Link</a>
