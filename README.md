@@ -68,3 +68,13 @@ If you're interested in learning more about data breaches or cybersecurity:
 
 - [Historical DB Archive Website](https://archive.trace.rip)
 - [trace.rip](https://trace.rip) / [2](https://searchub.vip)
+
+## ©️ DMCA
+
+Since we don't host any content ourselves, all takedown requests must go directly to the websites that actually host the files.
+
+We respect intellectual property rights and will cooperate with valid legal requests within our technical capabilities.
+
+For content removal, please contact the original hosting platform - we cannot remove what we don't control.
+
+If you are a copyright holder and want to report a violation, we are more than happy to point you to where we found the content.
