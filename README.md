@@ -50,13 +50,6 @@ You can also contribute new data breaches by submitting a pull request or by sug
 
 If you come across a new data breach, stealer logs, or notice outdated information, feel free to contribute. You can submit a pull request or open an issue for review at [our GitHub](https://redirect.trace.rip/?url=https://github.com/tracerip/archive.trace.rip).
 
-## 📋 Commit Types & Examples
-
-| Type     | Scope                | Description                                     | Example                                                        |
-| -------- | -------------------- | ----------------------------------------------- | -------------------------------------------------------------- |
-| **feat** | breach               | Upload or add new breach data                   | `feat(breach): add MegaData breach from July 2025`             |
-| **fix**  | link, description, data, meta    | Correct existing breach details or download URLs | `fix(link): update download URL for SafeMail 2023 breach`      |
-
 ## 🔗 External Resources
 
 If you're interested in learning more about data breaches or cybersecurity:

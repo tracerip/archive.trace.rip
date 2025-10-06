@@ -25,4 +25,4 @@ Browser user agent details, Email addresses, Passwords, Usernames
 
 ## Download link
 
-[Doxbin Database Download Link](https://redirect.trace.rip/?url=https://web.archive.org/web/20230125011725/https://cdn-116.anonfiles.com/k6h9EeSfyb/ddc1d3ff-1674610034/Doxbin.rar)
+<a href="https://redirect.trace.rip/?url=https://vault.trace.rip/share/Fw5u4Y2C" target="_blank" rel="noopener">Doxbin Database Download Link</a>
