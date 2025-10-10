@@ -26,4 +26,4 @@ everything on there pc 🤷
 
 ## Download link
 
-<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/v9zep2gznqqv" target="_blank" rel="noopener">North Korean Person leak Download Link</a>
+<a href="https://vault.trace.rip/public/share/oW2mVR75X9EENZy2Oon_Dg" target="_blank" rel="noopener">North Korean Person leak Download Link</a>
