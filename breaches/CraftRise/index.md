@@ -24,4 +24,4 @@ Email Addresses, Geographic Locations, Passwords, Usernames
 
 ## Download link
 
-<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/lpyiw6iie6xm" target="_blank" rel="noopener">CraftRise Database Download Link</a>
+<a href="https://vault.trace.rip/public/share/FOmuUiPYGYXTQcXpDv1VZg" target="_blank" rel="noopener">CraftRise Database Download Link</a>

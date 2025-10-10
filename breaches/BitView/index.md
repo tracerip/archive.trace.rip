@@ -22,4 +22,4 @@ Bios, Comments, Dates of birth, Email addresses, Genders, Geographic locations, 
 
 ## Download link
 
-<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/90qj51ai358b" target="_blank" rel="noopener">BitView Database Download Link</a>
+<a href="https://vault.trace.rip/public/share/4eDm6_UrpSyZ-wxC9GC0kw" target="_blank" rel="noopener">BitView Database Download Link</a>

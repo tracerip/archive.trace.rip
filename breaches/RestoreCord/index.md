@@ -24,4 +24,4 @@ Discord ID, IP Address, Discord Username, Date & Time
 
 ## Download link
 
-<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/55awy7vtav5k" target="_blank" rel="noopener">RestoreCord Database Download Link</a>
+<a href="https://vault.trace.rip/public/share/YkApft28W8YlL2DXMIzPoA" target="_blank" rel="noopener">RestoreCord Database Download Link</a>

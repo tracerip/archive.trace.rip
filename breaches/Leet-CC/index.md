@@ -22,4 +22,4 @@ Email addresses, IP addresses, Passwords, Website activity, Usernames
 
 ## Download link
 
-<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/kxcxclhzwkck" target="_blank" rel="noopener">Leet Database Download Link</a>
+<a href="https://vault.trace.rip/public/share/qVY-Uql9GLwy_uV2ltxREg" target="_blank" rel="noopener">Leet Database Download Link</a>

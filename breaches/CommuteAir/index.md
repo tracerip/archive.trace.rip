@@ -24,4 +24,4 @@ Names, Date of Birth
 
 ## Download link
 
-<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/q6vymrm58y6z" target="_blank" rel="noopener">TSA No Fly List Download Link</a>
+<a href="https://vault.trace.rip/public/share/bUuA2BGbKW7OKfsz9HimFQ" target="_blank" rel="noopener">TSA No Fly List Download Link</a>

@@ -24,4 +24,4 @@ Email addresses, Names, Passwords, Phone numbers, Physical addresses
 
 ## Download link
 
-<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/jpsd9asuls7v" target="_blank" rel="noopener">Domino's Database Download Link</a>
+<a href="https://vault.trace.rip/public/share/wJw4vaPv0lTH1qZ209c8gQ" target="_blank" rel="noopener">Domino's Database Download Link</a>

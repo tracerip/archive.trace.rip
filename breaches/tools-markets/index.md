@@ -26,4 +26,4 @@ Customer ID, Store ID, Full Name, Email Address, Order ID, Telephone, Store URL,
 
 ## Download link
 
-<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/2d757jg5ylci" target="_blank" rel="noopener">tools-markets Database Download Link</a>
+<a href="https://vault.trace.rip/public/share/bVUtuYfI_0AW2PglZ3-ErQ" target="_blank" rel="noopener">tools-markets Database Download Link</a>

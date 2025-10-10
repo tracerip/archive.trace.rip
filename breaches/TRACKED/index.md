@@ -27,4 +27,4 @@ Account IDs, Access Tokens, Passwords, Email Addresses, User Searches, User Quer
 
 ## Download link
 
-<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/lz0dw7mjnvm2" target="_blank" rel="noopener">TRACKED Database Download Link</a>
+<a href="https://vault.trace.rip/public/share/QNOrgwYZ_fIiYYM2xW7oUg" target="_blank" rel="noopener">TRACKED Database Download Link</a>

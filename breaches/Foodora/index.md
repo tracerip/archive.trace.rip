@@ -24,4 +24,4 @@ Email addresses, Names, Passwords, Phone numbers, Physical addresses,
 
 ## Download link
 
-<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/n2vch7xkc4km" target="_blank" rel="noopener">Foodora Database Download Link</a>
+<a href="https://vault.trace.rip/public/share/Tr5voieYPi9BQApt3G_j4Q" target="_blank" rel="noopener">Foodora Database Download Link</a>

@@ -24,4 +24,4 @@ Selfies, Photo identification, Posts, Comments, Direct messages
 
 ## Download link
 
-<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/qoejhgzyxzgd" target="_blank" rel="noopener">Tea Database Download Link</a>
+<a href="https://vault.trace.rip/public/share/mc_aHpXBQTcdF6SPAKMXtw" target="_blank" rel="noopener">Tea Database Download Link</a>

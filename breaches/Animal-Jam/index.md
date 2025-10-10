@@ -22,4 +22,4 @@ Email addresses, Dates of birth, Genders, IP addresses, Names, Passwords, Physic
 
 ## Download link
 
-<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/hqiqv3h0cjiu" target="_blank" rel="noopener">Animal Jam Database Download Link</a>
+<a href="https://vault.trace.rip/public/share/QUGNJnIYXwidone689aBcg" target="_blank" rel="noopener">Animal Jam Database Download Link</a>

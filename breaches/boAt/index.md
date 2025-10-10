@@ -22,4 +22,4 @@ Email addresses, Names, Phone numbers, Physical addresses
 
 ## Download link
 
-<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/1jvr6xmzi52h" target="_blank" rel="noopener">boAt Database Download Link</a>
+<a href="https://vault.trace.rip/public/share/s_JGnnVOvI_iBdmrLpPaQg" target="_blank" rel="noopener">boAt Database Download Link</a>

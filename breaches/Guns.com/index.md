@@ -25,4 +25,4 @@ Dates of birth, Email addresses, Names, Partial credit card data, Passwords, Pho
 
 ## Download link
 
-<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/c9tegbuke66b" target="_blank" rel="noopener">Guns.com Database Download Link</a>
+<a href="https://vault.trace.rip/public/share/SmBT_jA_jwNkqonRE0zBTQ" target="_blank" rel="noopener">Guns.com Database Download Link</a>

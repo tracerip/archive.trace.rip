@@ -25,4 +25,4 @@ Chat logs, Email addresses, Usernames
 
 ## Download link
 
-<a href="https://redirect.trace.rip/?url=https://buzzheavier.com/b0qe43ixktt5" target="_blank" rel="noopener">The Real World Database Download Link</a>
+<a href="https://vault.trace.rip/public/share/d0BkT0Pm6uJZ-RhgDKR08A" target="_blank" rel="noopener">The Real World Database Download Link</a>
