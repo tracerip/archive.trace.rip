@@ -36,12 +36,25 @@ If you're interested in learning more about data breaches or cybersecurity:
 - [Historical DB Archive Website](https://archive.trace.rip)
 - [trace.rip](https://trace.rip) / [2](https://searchub.vip)
 
-## ©️ DMCA
+## ©️ DMCA & Copyright Notice
 
-Since we don't host any content ourselves, all takedown requests must go directly to the websites that actually host the files.
+**Historical Data Breaches Archive (`archive.trace.rip`)** is a publicly accessible, non-commercial research archive that indexes and references historical data breach records **for academic, journalistic, and cybersecurity research purposes only**.
 
-We respect intellectual property rights and will cooperate with valid legal requests within our technical capabilities.
+### Important Clarifications
 
-For content removal, please contact the original hosting platform - we cannot remove what we don't control.
+- **We do not host, store, distribute, or control any of the underlying breach data files.**  
+- **`archive.trace.rip` and `vault.trace.rip` (FileBrowser Quantum) are technically and operationally distinct services.** Although they share a common domain root (`trace.rip`), **the Historical Data Breaches Archive (`archive.trace.rip`) does NOT host, operate, or have access to the contents of `vault.trace.rip`.**  
+- All indexed breach records are sourced from publicly reported incidents and are presented solely as **metadata** (e.g., breach name, date, source URL, file hashes). **No actual compromised user data is stored or served by this archive.**
 
-If you are a copyright holder and want to report a violation, we are more than happy to point you to where we found the content.
+### Takedown Requests
+
+Since we do not host any infringing content ourselves, **all DMCA takedown notices must be directed to the original hosting platforms** where the files are physically stored. We cannot remove content we do not control or possess.
+
+However, if you are a copyright holder or authorized representative and believe your rights have been violated:
+
+- We will gladly provide the **original source URL or hosting location** where the content was publicly referenced.  
+- Upon receipt of a **valid, properly formatted DMCA notice**, we will review and, if applicable, **remove or disable access to the metadata reference** in our archive within our technical capabilities.
+
+We respect intellectual property rights and comply with the safe harbor provisions of the Digital Millennium Copyright Act (DMCA). Our service functions as an **indexing and referencing tool only**, not as a content host.
+
+For inquiries or to submit a formal notice, please contact: [report@trace.rip](mailto:report@trace.rip)
