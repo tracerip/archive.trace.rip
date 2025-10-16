@@ -25,4 +25,4 @@ Browser user agent details, Email addresses, Passwords, Usernames
 
 ## Download link
 
-<a href="https://vault.trace.rip/share/Fw5u4Y2C" target="_blank" rel="noopener">Doxbin Database Download Link</a>
+<a href="https://vault.trace.rip/public/share/utUPk2eH_1m3PbLQ2Qau4Q" target="_blank" rel="noopener">Doxbin Database Download Link</a>
