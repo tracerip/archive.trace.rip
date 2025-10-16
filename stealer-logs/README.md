@@ -45,7 +45,6 @@ If you're interested in learning more about data breaches or cybersecurity:
 - **We do not host, store, distribute, or control any of the underlying breach data files.**  
 - **`archive.trace.rip` and `vault.trace.rip` (FileBrowser Quantum) are technically and operationally distinct services.** Although they share a common domain root (`trace.rip`), **the Historical Data Breaches Archive (`archive.trace.rip`) does NOT host, operate, or have access to the contents of `vault.trace.rip`.**  
 
-
 ### Takedown Requests
 
 Since we do not host any infringing content ourselves, **all DMCA takedown notices must be directed to the original hosting platforms** where the files are physically stored. We cannot remove content we do not control or possess.
