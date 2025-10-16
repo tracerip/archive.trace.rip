@@ -1,0 +1,22 @@
+name: "Report a Dead Link"
+description: "Report a broken or dead link in the repository."
+title: "[Dead Link] <URL or Page>"
+labels: ["dead link"]
+assignees: ["YoureIronic"]
+body:
+  - type: input
+    id: broken_url
+    attributes:
+      label: "Broken URL"
+      description: "The dead/broken link you encountered"
+      placeholder: "https://example.com/dead-page"
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: "Location"
+      description: "Where did you find this link?"
+      placeholder: "https://archive.trace.rip/breaches/Life360"
+    validations:
+      required: true
