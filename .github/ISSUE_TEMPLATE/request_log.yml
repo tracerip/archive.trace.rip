@@ -2,6 +2,7 @@ name: "Request a New Stealer Log"
 description: "Suggest a new stealer log (e.g., from malware, credential dump, or leak forum) to be added to the archive."
 title: "[Stealer Log Request] <Log Source / Platform>"
 labels: ["stealer log request"]
+assignees: "YoureIronic"
 body:
   - type: input
     id: log_source
