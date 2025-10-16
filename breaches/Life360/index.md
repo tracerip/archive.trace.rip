@@ -22,4 +22,4 @@ Email addresses, Names, Phone numbers
 
 ## Download link
 
-<a href="https://vault.trace.rip/public/share/pCpc-0P65VwcsyDPRGn0OA" target="_blank">Life360 Database Download Link</a>
+<a href="https://vault.trace.rip/public/share/kcnnqn_LUSqpFW7mSMOvDw" target="_blank">Life360 Database Download Link</a>
