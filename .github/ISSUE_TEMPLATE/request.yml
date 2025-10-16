@@ -2,6 +2,7 @@ name: "Request a New Breach"
 description: "Suggest a new data breach to be added to the archive."
 title: "[Breach Request] <Breach Name>"
 labels: ["breach request"]
+assignees: "YoureIronic"
 body:
   - type: input
     id: breach_name
