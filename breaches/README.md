@@ -37,6 +37,7 @@ You can freely download any data breach file using the links provided down below
 - [Guns.com](./Guns.com)
 - [JobHound](./JobHound)
 - [Leet](./Leet-CC)
+- [Life360](./Life360)
 - [LockBit](./LockBit)
 - [Pandabuy](./Pandabuy)
 - [Poshmark](./Poshmark)
